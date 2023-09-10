@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="LOCAL Malayalam", Mediavision TV
+https://ssh101.bozztv.com/ssh101/mvtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="LOCAL Malayalam", Mediavision Live
+https://250weu.bozztv.com/ssh101/ssh101/mvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2CXdtQ.png" group-title="LOCAL Malayalam", Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oB3wURl.jpg" group-title="LOCAL Malayalam", Victers Live
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/chunks.m3u8
