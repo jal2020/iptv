@@ -7,7 +7,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="C Malayalam TV" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Local TV",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News",Asianet News
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News Malayalam",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
@@ -35,7 +35,7 @@ https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Pulari TV" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Local TV",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="News",Real Kerala News
+#EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="News Malayalam",Real Kerala News
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Exploration",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
@@ -47,7 +47,7 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Star Net" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="Local TV",Star Net
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News
+#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News Malayalam",Twenty Four News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="VBC News" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="Local TV",VBC News
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
@@ -57,5 +57,9 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Local TV",VISION Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/riziFvL.jpeg" group-title="News",Reporter TV
+
+#EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://yt3.googleusercontent.com/bJDd0TLwG0dXlTmaX9RvX1Ch99KMWU8tqpMIXu6W46dNfIS7gK3pC243M--uLOHgPaNKTaQF=s160-c-k-c0x00ffffff-no-rj" group-title="News Malayalam",Reporter TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752071544/ei/FyluaKakPJex6dsP3ePosQY/ip/86.98.68.230/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLNWkYeAjD25rCnW6s0bPKrbMoQrMh2THFuC8MOn-1-yqtLCDHcvMpumyxacswFltEe77A/spc/l3OVKWRFDaDy6_nmDp8egsBI5hghyMRw5IIWFAStEBz0xKGdYXJa3ZunplA3JZLar5hUXeHYJfKRcrjzkxk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGSazOfJyd41ZVM4ADlCat5Ze9gqSEmdlgAhQUhqEBCsCIQCu2lIlGR-tmkku06BxnV56ojtiJb4JC46ZbwgrXUO6UQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Media One" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFqgCQfk09vEWUTJ8YLJqTaahT-cqdX1fP8-rv7ZI5Kos=s160-c-k-c0x00ffffff-no-rj" group-title="News Malayalam",Media One
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752087787/ei/i2huaN7SIKej6dsPs52ryAo/ip/86.98.68.230/id/-8d8-c0yvyU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLOvEShO6YYsrd6QZqZXO8f-3WAh10GP_RmyANHZ1ijTMHQTaMTaSvGPldI20iMAsLSmLw/spc/l3OVKcxVm5TnNVik7uowazu13Myfougqimmg0RGMxrUAitp2Bct5NX_wmDSxsLCWOLWjkLcZcrleAmFtYcA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJ-HiP3PhCJj2nyT4E731W7F-VwsnMNWifp4yOzk5NS4CIQC70L--ZQNGi8SpoBwIyHQ_eLXWO7R0mRjUDbJLLBRnvA%3D%3D/file/index.m3u8
