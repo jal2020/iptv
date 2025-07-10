@@ -25,6 +25,12 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Local TV",VISION Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KVTV" tvg-logo="https://i.imgur.com/HnaxGPs.jpeg" group-title="Malayalam Local TV",KVTV
+https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="KVTV Music" tvg-logo="https://i.imgur.com/qai4Wea.jpeg" group-title="Malayalam Local TV",KVTV Music
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="UTV Palakkad" tvg-logo="https://i.imgur.com/XoOb2v8.jpeg" group-title="Malayalam Local TV",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam Entertainment",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
@@ -40,7 +46,14 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam Entertainment",Jaihind TV
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
-
+#EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam Entertainment",Jeevan TV
+http://familyip.vip/BC_336/mpegts?token=7ff09c5d8c0806e82b76ac77b8a2c62d
+#EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam Entertainment",Kappa TV
+http://familyip.vip/BC_1236/mpegts?token=44f7e2bfe83ccce1b6c2fbe86c6094e5
+#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam Entertainment",Amrita TV
+https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam Entertainment",Surya movies
+http://familyip.vip/BC_1208/mpegts?token=c92e4b14b410d5af7bc977c0ea26cf0b
 
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
