@@ -123,6 +123,10 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="English News",Sky News HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+#EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
+https://edge2-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
