@@ -58,7 +58,7 @@ http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
 http://familyip.vip/BC1_216/mpegts?token=6d591c142525a83a636267bef65b5f9c
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam Entertainment",Darshana TV
 https://cdn-2.pishow.tv/live/1453/master.m3u8
-#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Malayalam Entertainment",Safari TV
+#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam Entertainment",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam Entertainment",Surya movies
 http://familyip.vip/BC_1208/mpegts?token=c92e4b14b410d5af7bc977c0ea26cf0b
