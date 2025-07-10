@@ -64,6 +64,12 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 http://familyip.vip/BC_1208/mpegts?token=c92e4b14b410d5af7bc977c0ea26cf0b
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam Entertainment",Asianet movies
 http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
+#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam Entertainment",Asianet HD
+http://familyip.vip/BC_128/index.m3u8?token=8467712293169693d3c6ab76bd4a5666
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam Entertainment",Surya TV HD
+http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5
+#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam Entertainment",Zee Keralam HD
+http://familyip.vip/BC_1204/index.m3u8?token=664c45798101e1f60740e483cd86085a
 
 
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
@@ -73,15 +79,16 @@ https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thiit.smil/hdntl=exp=1752
 #EXTINF:-1 tvg-id="Turito NEET" tvg-logo="https://i.imgur.com/cflKxbp.jpeg" group-title="Education",Turito NEET
 https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/hdntl=exp=1752156792~acl=%2f*~data=hdntl~hmac=d173d8938c3682bce93be97598b810f050427636469cb00f912816244f8f7ebd/chunklist_b2628000.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
+http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
+#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
+http://familyip.vip/AR_SaudiSunnah/index.m3u8?token=0361e45be5ad79190dbc611b6bc87779
 #EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Harvest TV" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-
 #EXTINF:-1 tvg-id="Shalom TV" tvg-logo="https://i.imgur.com/0eVTmtf.png" group-title="Religious",Shalom TV
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Shalom TV Global" tvg-logo="https://i.imgur.com/qUjsV79.png" group-title="Religious",Shalom TV Global
@@ -138,13 +145,14 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
+http://familyip.vip/dd_s_t/index.m3u8?token=03af2edba951d837f57d95d6a0c850ce
 #EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
 http://familyip.vip/In_Hin_1/index.m3u8?token=884facafb7fbfd74041ec8a4761d2887
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
 http://familyip.vip/SS1_IND/index.m3u8?token=e2b33a477066a6aa8976858b3f460edc
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://familyip.vip/IND_SL2/index.m3u8?token=6a00d7d362bf8658989e9d1263263f4b
-
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
 http://familyip.vip/P_T102/index.m3u8?token=6650bba34e8a04793164a0db5d3cf03f
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
@@ -178,5 +186,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
 #EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
+#EXTINF:-1 tvg-id="Chu Chu TV" tvg-logo="https://i.imgur.com/ygOwv3E.jpeg" group-title="Kids",Chu Chu TV
+http://familyip.vip/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
+#EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
+http://familyip.vip/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
