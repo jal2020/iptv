@@ -187,7 +187,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
-
+#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443046&extension=ts&play_token=bANQTEIMke
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
 #EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
