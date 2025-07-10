@@ -138,6 +138,10 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
+http://familyip.vip/In_Hin_1/index.m3u8?token=884facafb7fbfd74041ec8a4761d2887
+#EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
+http://familyip.vip/P_T102/index.m3u8?token=6650bba34e8a04793164a0db5d3cf03f
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
 http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony ten 2 HD
@@ -146,6 +150,8 @@ http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
 http://familyip.vip/tenso3/index.m3u8?token=665bbcb29f5d7046bbef11d5994ce69d
 #EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony ten 5 HD
 http://familyip.vip/S_Ten5/mpegts?token=e14d50e71b45923c80d2aa992a055e5f
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.imgur.com/lYSe3pt.jpeg" group-title="Sports",Astro Cricket
+http://familyip.vip/Cr_AS/index.m3u8?token=dcff9b88e7f1dd0df79e197ab487b9f2
 
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
