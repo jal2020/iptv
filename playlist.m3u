@@ -136,8 +136,16 @@ https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
+http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony ten 2 HD
+http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony ten 3 Hindi
+http://familyip.vip/tenso3/index.m3u8?token=665bbcb29f5d7046bbef11d5994ce69d
+#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony ten 5 HD
+http://familyip.vip/S_Ten5/mpegts?token=e14d50e71b45923c80d2aa992a055e5f
 
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
@@ -148,17 +156,13 @@ https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 #EXTINF:-1 tvg-id="Korean Movies & Series" tvg-logo="https://i.imgur.com/WQQQIRY.png" group-title="English Movies",Korean Movies & Series
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
+#EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
 
-#EXTINF:-1 tvg-id="Mr Bean HD" tvg-logo="https://i.imgur.com/oSUUGZb.jpeg" group-title="English Movies",Mr Bean HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752096209/ei/cYluaMqEItWv0u8Px7-T2QI/ip/86.98.68.230/id/HXeRr0ToibU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ae/ss/1/ssa/1/siu/1/bui/AY1jyLMcOAnxPIyVRrFkvENICvlxR1GRucwu-lCi25GAD-3uQHYRi2ieeLyuDu6OEC1fm-KS9g/spc/l3OVKRIXZ5EN1kqasKKwaLldEJKmO-2sNuTyzXp6IZXdyTltXshWFnDqWE4KthGmvaQh/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgehr0YXBTNMukZIpq647JBDmrVJ21AzYsGWfWQIJKajMCIHieC0slV8cBYnRKVCYSh81ynsCxGqFsngNhFxk-NoUX/file/index.m3u8
-
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752096385/ei/IYpuaPmnK8P56dsPiK_o-Qk/ip/86.98.68.230/id/daqB3i9WYIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ae/ss/1/ssa/1/siu/1/bui/AY1jyLNWmNhQMUPEgqUqDymSmgKh_IIJ22Mun9S8zhc0SacNe-f6fWbrBpBUHmiBqM1xZWAc8Q/spc/l3OVKY6N4Pj_xp0AOC17OCfJkKlxASH2YReJMcWG4TZF04XnK2OcVUECo-mGj8-g9wkW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgROgwSqrnG-h8uWIB34y3dgJoLZ90usBD_hpwEV44ptcCIQC0zr9t0XV2-aCBq0y_QfF88bRSVbIFwweFTbck04UL5g%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD-2" tvg-logo="https://i.imgur.com/i9ASAeA.jpeg" group-title="Documentary",Love Nature HD-2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752096494/ei/jopuaOaPFvWOv_IPkf290QM/ip/86.98.68.230/id/Vr2dKsLBHQo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ae/ss/1/ssa/1/siu/1/bui/AY1jyLOb2UL44BnG9n31K8EkoldBx-G3pidXJ5yXGRSwD902_nbb6H6-M75JOfMPnd4HHFo00Q/spc/l3OVKelsFWKZ3XGQRhYQsoXQyH5rtcJR1wmo_V2mAxCghSqQvpsiocMtmj2TXGqGmIJN/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLfw-0kvs-eU9Cl_uU3H804fiHKJQ5LBFsgPexyqe8xICIQDac3HSgf2ZXx7MlCybSz4ulXiZ9OKzxB-FiDspmeKSoA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="Makkah Live HD" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah Live HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752097780/ei/lI9uaO6INYighcIPs96FqAs/ip/86.98.68.230/id/ueIOUTyRS84.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLOS7BTN92E91B9DZYXcA27dbbpLDNTpWcwhH87YJTwQy_C_DUnOiNLy4JuArR0WRw-gSg/spc/l3OVKQ7P9P05ClZtaCNeq2hdVGh15LqC-NFzDpQ5uoIJP54uRPYI80dnC9n0u1Sx0Yp6/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOiBzmOSBGr2QyQfjPLZYLkKkjtSyvqXlmb7cEfuhhJnAiEA-phY2FPEQ2SGBjom4C5K04JiIMkpJUY4HHA_EXjeQFI%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="Madina live HD" tvg-logo="https://i.imgur.com/bKyC9K3.png" group-title="Religious",Madina live HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752098342/ei/xpFuaKnaLKz6xN8PiImQiAQ/ip/86.98.68.230/id/BtMUUgApnPs.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLMO_dkRGaNzs7Aw70YFt9AMTQ4Z_RmlA9T2mVdlViQsKzmPrOXGN3fVvdNKl6ejrAwy-w/spc/l3OVKUi7VYFhaoRKA94sjcz0iUDdAmNeD5U99_4YImrileELR9qO65WGCsMVfNQMZFtX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ99NcTUUPQsU9C7fLksjIqQs7Hmy1OBiHjtt3DooV17AiACIOuFb49S4o0lilxoYGP3Mj8Gg8J8BR9cG-CxyB2gpg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
+#EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
