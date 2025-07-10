@@ -197,3 +197,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d
 http://familyip.vip/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
 #EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
 http://familyip.vip/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
+
+
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam News Youtube",Asianet News
+https://www.youtube.com/c/asianetnews/live
