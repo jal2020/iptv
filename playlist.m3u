@@ -184,11 +184,11 @@ http://familyip.vip/Wi_Cr/index.m3u8?token=ea6898c9b55c6599ec21bc935b029bf5
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 01
 http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1616918&extension=ts&play_token=q7Zh79ENiQ
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 02
-http://91.222.174.222:80/DAZN-1/index.m3u8
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 03
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 04
-http://109.61.81.147:1935/cdn7/1298/mpegts?token=c6f76e04d93ab51a45ae716e4072c7ee
+http://91.222.174.222:80/DAZN-1/index.m3u8
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
