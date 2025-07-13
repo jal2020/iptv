@@ -181,8 +181,10 @@ http://familyip.vip/IN_S28/index.m3u8?token=19de4711da340e63f244daf66d31475c
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.imgur.com/xD7Zhel.jpeg" group-title="Sports",Willow Cricket
 http://familyip.vip/Wi_Cr/index.m3u8?token=ea6898c9b55c6599ec21bc935b029bf5
 
-#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",Willow Cricket
-http://lllllldsa1iiidsa9.funtogether.xyz:8080/9MJPegA8tB/oI4XS58sFG/128868?play_token=JdrALsTSml
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 01
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 02
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
