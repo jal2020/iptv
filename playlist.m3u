@@ -182,7 +182,7 @@ http://familyip.vip/IN_S28/index.m3u8?token=19de4711da340e63f244daf66d31475c
 http://familyip.vip/Wi_Cr/index.m3u8?token=ea6898c9b55c6599ec21bc935b029bf5
 
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 01
-http://109.61.81.147:1935/cdn7/1298/mpegts?token=6411957adb198afa0775d6022a379a08
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1616918&extension=ts&play_token=q7Zh79ENiQ
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 02
 http://91.222.174.222:80/DAZN-1/index.m3u8
 #EXTINF:-1 tvg-id="FIFA Club World CUP" tvg-logo="https://i.postimg.cc/MGjFCKKc/Screenshot-2025-04-01-190506.png" group-title="FIFA Club World CUP",FIFA Club World CUP LIVE - 03
