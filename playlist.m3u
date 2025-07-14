@@ -80,6 +80,8 @@ http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528397&ex
 http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam Entertainment",Zee Keralam HD
 http://familyip.vip/BC_1204/index.m3u8?token=664c45798101e1f60740e483cd86085a
+#EXTINF:-1 tvg-id="Kerala vision" tvg-logo="https://i.postimg.cc/zD9f81VR/kerala-vision-project-office-pudukad-thrissur-qhoquob9vw-250.jpg" group-title="Malayalam Entertainment",Kerala Vision
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1108537&extension=ts&play_token=wqr1PtlTfu
 
 
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
