@@ -74,6 +74,8 @@ http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
 http://familyip.vip/BC_128/index.m3u8?token=8467712293169693d3c6ab76bd4a5666
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam Entertainment",Asianet Plus
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443059&extension=ts&play_token=eeQJu8xqXm
+#EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam Entertainment",Asianet  Middle East
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528397&extension=ts&play_token=p4dgK9rxgw
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam Entertainment",Surya TV HD
 http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam Entertainment",Zee Keralam HD
