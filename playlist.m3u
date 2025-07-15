@@ -203,15 +203,15 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
-#EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/ezgif-2db52985d6c1c6.jpg" group-title="Hindi",Z Bollywood
+#EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
 http://familyip.vip/BC_182/mpegts?token=6c7f7abf10f0f7046cd7878fce94afb6
-#EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/ezgif-245a6dd3bc36b6.webp" group-title="Hindi",Z Cinema HD
+#EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
 http://familyip.vip/BC_130/index.m3u8?token=9055634f288fecd04f5aee366d9de6df
-#EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/TPF2kH7r/ezgif-281bafb7bd80fa.webp" group-title="Hindi",Star Gold
+#EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
 https://i.postimg.cc/yxBTZnHH/ezgif-25ab715ab068dd.jpg
-#EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/ezgif-281bafb7bd80fa.webp" group-title="Hindi",&pictures HD
+#EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
 http://familyip.vip/BC_132/index.m3u8?token=8d1376fbc0f3846c6190f3c0a9d4e5f7
-#EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/ezgif-16b980eb4820a2.jpg" group-title="Hindi",Bollywood HD
+#EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
