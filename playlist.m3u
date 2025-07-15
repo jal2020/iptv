@@ -203,6 +203,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
+#EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/ezgif-281bafb7bd80fa.webp" group-title="Hindi",Z Cinema HD
+http://familyip.vip/BC_130/index.m3u8?token=9055634f288fecd04f5aee366d9de6df
 #EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/TPF2kH7r/ezgif-281bafb7bd80fa.webp" group-title="Hindi",Star Gold
 https://i.postimg.cc/yxBTZnHH/ezgif-25ab715ab068dd.jpg
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/ezgif-281bafb7bd80fa.webp" group-title="Hindi",&pictures HD
