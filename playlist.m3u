@@ -192,7 +192,8 @@ http://xott.live:8080/live/44637368/822766552/167585.ts
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-
+#EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.postimg.cc/26CvhLfZ/Sharjah-Sports.jpg" group-title="Sports",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
