@@ -59,7 +59,7 @@ https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam Entertainment",Kairali TV
 http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam Entertainment",Kairali Arabia
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=3a6IYuBR0L
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=155838&extension=ts&play_token=DAZjooEMB8
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam Entertainment",Kairali WE
 http://familyip.vip/BC1_216/mpegts?token=6d591c142525a83a636267bef65b5f9c
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam Entertainment",Darshana TV
@@ -82,6 +82,8 @@ http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528397&ex
 http://familyip.vip/BC_168/index.m3u8?token=dd087e8b53616528957a2006641dd3b5
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam Entertainment",Zee Keralam HD
 http://familyip.vip/BC_1204/index.m3u8?token=664c45798101e1f60740e483cd86085a
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam Entertainment",Surya Comedy
+http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528392&extension=ts&play_token=nUt40QZGyR
 
 
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
