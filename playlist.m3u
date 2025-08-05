@@ -55,7 +55,7 @@ http://familyip.vip/BC_336/mpegts?token=7ff09c5d8c0806e82b76ac77b8a2c62d
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam Entertainment",Kappa TV
 http://familyip.vip/BC_1236/mpegts?token=44f7e2bfe83ccce1b6c2fbe86c6094e5
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam Entertainment",Amrita TV
-https://d2lzf5tle3ge1s.cloudfront.net/master.m3u8
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam Entertainment",Kairali TV
 http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam Entertainment",Kairali Arabia
