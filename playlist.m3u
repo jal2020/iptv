@@ -49,7 +49,7 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam Entertainment",Jaihind TV
-http://gn85.xyz:80/R538K3AF4CEJ81V/g3nkQ1YaHS/285815
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam Entertainment",Jeevan TV
 http://familyip.vip/BC_336/mpegts?token=7ff09c5d8c0806e82b76ac77b8a2c62d
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam Entertainment",Kappa TV
@@ -59,7 +59,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extens
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam Entertainment",Kairali TV
 http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam Entertainment",Kairali Arabia
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=155838&extension=ts&play_token=DAZjooEMB8
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam Entertainment",Kairali WE
 http://familyip.vip/BC1_216/mpegts?token=6d591c142525a83a636267bef65b5f9c
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam Entertainment",Darshana TV
@@ -73,9 +73,9 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443057&extens
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam Entertainment",Asianet movies
 http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam Entertainment",Asianet HD
-http://familyip.vip/BC_128/index.m3u8?token=8467712293169693d3c6ab76bd4a5666
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:58&stream=443058&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam Entertainment",Asianet Plus
-http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=155822&extension=ts&play_token=TxW09ZDfSB
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam Entertainment",Asianet  Middle East
 http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528397&extension=ts&play_token=p4dgK9rxgw
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam Entertainment",Surya TV HD
