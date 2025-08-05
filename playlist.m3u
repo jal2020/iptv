@@ -59,7 +59,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extens
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam Entertainment",Jeevan TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443020&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam Entertainment",Kappa TV
-http://familyip.vip/BC_1236/mpegts?token=44f7e2bfe83ccce1b6c2fbe86c6094e5
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443048&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam Entertainment",Amrita TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam Entertainment",Kairali TV
