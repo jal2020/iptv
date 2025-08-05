@@ -73,7 +73,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443057&extens
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam Entertainment",Asianet movies
 http://familyip.vip/BC_1224/index.m3u8?token=d9ea2718167838633f90737711445dc1
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam Entertainment",Asianet HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:58&stream=443058&extension=ts&play_token=FPh4kuMnod
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443058&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam Entertainment",Asianet Plus
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam Entertainment",Asianet  Middle East
