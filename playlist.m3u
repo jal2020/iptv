@@ -25,8 +25,8 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Local TV",VISION Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KVTV" tvg-logo="https://i.imgur.com/HnaxGPs.jpeg" group-title="Malayalam Local TV",KVTV
-https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Wayanad Vision" tvg-logo="https://i.postimg.cc/DZcX5hcs/wayanad-vision.webp" group-title="Malayalam Local TV",Wayanad Vision
+https://cloudsavre.in.net/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="KVTV Music" tvg-logo="https://i.imgur.com/qai4Wea.jpeg" group-title="Malayalam Local TV",KVTV Music
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="UTV Palakkad" tvg-logo="https://i.imgur.com/XoOb2v8.jpeg" group-title="Malayalam Local TV",UTV Palakkad
