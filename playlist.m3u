@@ -192,6 +192,8 @@ http://familyip.vip/IND_SL2/index.m3u8?token=6a00d7d362bf8658989e9d1263263f4b
 http://familyip.vip/P_T102/index.m3u8?token=6650bba34e8a04793164a0db5d3cf03f
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
 http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD*
+http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony ten 2 HD
 http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony ten 3 Hindi
