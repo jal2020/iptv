@@ -176,6 +176,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
 https://edge2-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="TravelXP" tvg-logo="https://i.postimg.cc/DZHK99b5/TravelXP.jpg" group-title="Documentary",TravelXP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/1e4a1a0d-9c3e-4e63-a31d-b4994990be20/2.m3u8
 #EXTINF:-1 tvg-id="National Geographic  Abu Dhabi" tvg-logo="https://i.postimg.cc/j5N2Skrs/National-Geographic-Abu-Dhabi.webp" group-title="Documentary",National Geographic Abu Dhabi
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
@@ -272,6 +274,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/MGtLCzLR/bmc-1.jpg" group-title="Arabic",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://i.postimg.cc/MGtLCzLR/bmc-1.jpg" group-title="Arabic",MBC 2
@@ -301,6 +305,21 @@ http://familyip.vip/BC_134/index.m3u8?token=189d72a9d2e51825d9875c174191f712
 http://familyip.vip/BC_132/index.m3u8?token=8d1376fbc0f3846c6190f3c0a9d4e5f7
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi",9X jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/728d342b-ce37-4b9c-bb5f-4903060aa1c8/2.m3u8
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi",9xm
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/HD720/HD720.m3u8
+#EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi",Balle Balle tv
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi",PTC music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
+
+#EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8
+#EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",MK tunes
+https://cdn-3.pishow.tv/live/433/433_0.m3u8
 
 #EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://i.postimg.cc/k4Jyd8SX/mbc-3.webp" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
