@@ -318,8 +318,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8
-#EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",MK tunes
+#EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
 https://cdn-3.pishow.tv/live/433/433_0.m3u8
+#EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://i.postimg.cc/k4Jyd8SX/mbc-3.webp" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
