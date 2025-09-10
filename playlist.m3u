@@ -315,6 +315,8 @@ https://cdnb4u.wiseplayout.com/B4U_Music/HD720/HD720.m3u8
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi",PTC music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
+#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi",B4U_Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
 
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8
