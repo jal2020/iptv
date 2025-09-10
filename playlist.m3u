@@ -37,7 +37,7 @@ https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57
 http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1108537&extension=ts&play_token=wqr1PtlTfu
 #EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam Local TV",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Malabar News" tvg-logo="https://i.postimg.cc/Y2X9sYTX/malabar-news.jpg" group-title="Malayalam Local TV",Malabar News
+#EXTINF:-1 tvg-id="Malabar Channel" tvg-logo="https://i.postimg.cc/Y2X9sYTX/malabar-news.jpg" group-title="Malayalam Local TV",Malabar Channel
 http://cloud.logichost.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Malabar Plus" tvg-logo="https://i.postimg.cc/BbyJQc04/malabar-plus.webp" group-title="Malayalam Local TV",Malabar Plus
 http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
