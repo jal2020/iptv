@@ -37,6 +37,18 @@ https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57
 http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1108537&extension=ts&play_token=wqr1PtlTfu
 #EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam Local TV",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Malabar News" tvg-logo="https://i.postimg.cc/Y2X9sYTX/malabar-news.jpg" group-title="Malayalam Local TV",Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Malabar Plus" tvg-logo="https://i.postimg.cc/BbyJQc04/malabar-plus.webp" group-title="Malayalam Local TV",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
+#EXTINF:-1 tvg-id="Citi Channel" tvg-logo="https://i.postimg.cc/KvNdNDVz/citi-channel.jpg" group-title="Malayalam Local TV",Citi Channel
+http://cloud.logichost.in:1935/live/citi/playlist.m3u8
+#EXTINF:-1 tvg-id="One tv" tvg-logo="https://i.postimg.cc/x1bjF7S5/One-tv.jpg" group-title="Malayalam Local TV",One TV
+http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Swantham" tvg-logo="https://i.postimg.cc/wjhZM887/SWANTHAM.jpg" group-title="Malayalam Local TV",Swantham TV
+http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/Zqtwmttq/kannur-vision.jpg" group-title="Malayalam Local TV",Kannur Vision
+http://stream.logichost.in/kannurvision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam Entertainment",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
