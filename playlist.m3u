@@ -136,6 +136,8 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Peace Tv" tvg-logo="https://i.postimg.cc/YqGNfdRH/peace-tv.jpg" group-title="Religious",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="Shekinah TV" tvg-logo="https://i.postimg.cc/CL4cVrZ8/Shekinah-TV.jpg" group-title="Religious",Shekinah TV
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
