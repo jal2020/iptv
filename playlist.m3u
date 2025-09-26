@@ -199,6 +199,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
@@ -247,6 +249,13 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports
 https://cdn-6.pishow.tv/live/13/13_0.m3u8
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
+https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
+https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
+https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
