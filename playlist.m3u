@@ -285,7 +285,8 @@ https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English Movies",Sony Pix HD
+http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156004&extension=ts&play_token=g5BMLkcqpm
 
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -305,9 +306,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.postimg.cc/W3qmPJ6Q/dubai-tv.png" group-title="Arabic",Dubai TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Al Jazeera News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="Arabic",Al Jazeera News
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
@@ -338,6 +339,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1024k.m3u8
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/cc090eaf-52cc-41a0-b8e5-4cf3b6ef8980/0.m3u8
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Colors Cineplex
+http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156003&extension=ts&play_token=g5BMLkcqpm
 
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8
