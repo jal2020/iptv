@@ -112,13 +112,8 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443064&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443024&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Raj Musuc Malayalam" tvg-logo="https://i.postimg.cc/nrZVNwVd/Raj-music-mlm.jpg" group-title="Malayalam",Raj Music Malayalam
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443041&extension=ts&play_token=FPh4kuMnod
-
-#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
+#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Victers TV
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Turito IIT JEE" tvg-logo="https://i.imgur.com/FnvkvWk.jpeg" group-title="Education",Turito IIT JEE
-https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thiit.smil/hdntl=exp=1752156518~acl=%2f*~data=hdntl~hmac=e960ff221cd10d935d1563483232f754e62dbdf08cd79bef62cf85d5a4473d3c/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="Turito NEET" tvg-logo="https://i.imgur.com/cflKxbp.jpeg" group-title="Education",Turito NEET
-https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/hdntl=exp=1752156792~acl=%2f*~data=hdntl~hmac=d173d8938c3682bce93be97598b810f050427636469cb00f912816244f8f7ebd/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
 http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
