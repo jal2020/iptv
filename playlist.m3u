@@ -134,6 +134,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="Shekinah TV" tvg-logo="https://i.postimg.cc/CL4cVrZ8/Shekinah-TV.jpg" group-title="Religious",Shekinah TV
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam S2",Asianet HD
 https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam S2",Asianet movies HD
@@ -142,6 +144,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam S2",Asianet Plus
 https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
+#EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam S2",Mazhavil Manorama HD
+https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanoramahd/master.m3u8
+#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam S2",Mazhavil Manorama
+https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanorama/master.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
 https://live.dinesh29.com.np/stream/jiotvplus/suryatv/master.m3u8
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam S2",Surya movies
@@ -150,8 +156,49 @@ https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/suryamusic/master.m3u8
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam S2",Surya Comedy
 https://live.dinesh29.com.np/stream/jiotvplus/suryacomedy/master.m3u8
-#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
+#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam S2",Kochu TV
 https://live.dinesh29.com.np/stream/jiotvplus/kochutv/master.m3u8
+#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam S2",Safari TV
+https://live.dinesh29.com.np/stream/jiotvplus/safaritv/master.m3u8
+#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam S2",Amrita TV
+https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
+#EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam S2",Kairali TV
+https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
+#EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam S2",Kaumudy TV
+https://live.dinesh29.com.np/stream/jiotvplus/kaumudytv/master.m3u8
+#EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam S2",Kappa TV
+https://live.dinesh29.com.np/stream/jiotvplus/kappatv/master.m3u8
+#EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam S2",Jaihind TV
+https://live.dinesh29.com.np/stream/jiotvplus/jaihindtv/master.m3u8
+#EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam S2",Jeevan TV
+https://live.dinesh29.com.np/stream/jiotvplus/jeevantv/master.m3u8
+#EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam S2",DD malayalam
+https://live.dinesh29.com.np/stream/jiotvplus/ddmalayalam/master.m3u8
+
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam S2",Asianet News
+https://live.dinesh29.com.np/stream/jiotvplus/asianetnews/master.m3u8
+#EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam S2",Reporter TV
+https://live.dinesh29.com.np/stream/jiotvplus/reportertv/master.m3u8
+#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.imgur.com/6DOCPsl.jpeg" group-title="Malayalam S2",Twenty Four News
+https://live.dinesh29.com.np/stream/jiotvplus/twentyfournews/master.m3u8
+#EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Malayalam S2",News Malayalam 24x7
+https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
+#EXTINF:-1 tvg-id="Manorama News" tvg-logo="https://i.imgur.com/n9ABnlu.jpeg" group-title="Malayalam S2",Manorama News
+https://live.dinesh29.com.np/stream/jiotvplus/manoramanews/master.m3u8
+#EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam S2",Mathrubhumi News
+https://live.dinesh29.com.np/stream/jiotvplus/mathrubhuminews/master.m3u8
+#EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.imgur.com/Jmdo2L6.jpeg" group-title="Malayalam S2",Media One
+https://live.dinesh29.com.np/stream/jiotvplus/mediaonetv/master.m3u8
+#EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.imgur.com/SjOjdmM.jpeg" group-title="Malayalam S2",Kairali News
+https://live.dinesh29.com.np/stream/jiotvplus/kairalinews/master.m3u8
+#EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.imgur.com/HIFufHH.jpeg" group-title="Malayalam S2",News 18 Kerala 
+https://live.dinesh29.com.np/stream/jiotvplus/news18kerala/master.m3u8
+#EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.imgur.com/HGqzaen.jpeg" group-title="Malayalam S2",Zee Malayalam News
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam S2",Raj News Malayalam
+https://live.dinesh29.com.np/stream/jiotvplus/rajnewsmalayalam/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
