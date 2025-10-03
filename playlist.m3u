@@ -138,6 +138,8 @@ https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sd
 
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam S2",Asianet HD
 https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
+#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/Jz8BLpzL/asianet.jpg" group-title="Malayalam S2",Asianet
+https://live.dinesh29.com.np/stream/jiotvplus/asianet/master.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam S2",Asianet movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam S2",Asianet movies
