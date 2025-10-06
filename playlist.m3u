@@ -69,9 +69,25 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954b
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="N Media" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",N Media
 https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF:-1 tvg-id="South Vision" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",NTV uae
+https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Starnet" tvg-logo="https://i.postimg.cc/vmPXZk7r/Starnet.png" group-title="Malayalam Local TV",Starnet
+https://play.applelive.in/starnettv/starnettv.m3u8
+#EXTINF:-1 tvg-id="N vision" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision HD
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
+#EXTINF:-1 tvg-id="N vision Music" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision music
+https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+#EXTINF:-1 tvg-id="NV TV" tvg-logo="https://i.postimg.cc/mhxmG9YX/NV-TV.png" group-title="Malayalam Local TV",NV TV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF:-1 tvg-id="Koickal News" tvg-logo="hhttps://i.postimg.cc/BbwX8570/Koickal-News.png" group-title="Malayalam Local TV",Koickal News
+https://play.applelive.in/koickalnews/koickalnews.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-id="DD Malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443062&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Malayalam",Flowers TV usa
