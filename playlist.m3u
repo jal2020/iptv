@@ -5,7 +5,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Local TV",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-id="C Malayalam TV" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Malayalam Local TV",C Malayalam TV
+#EXTINF:-1 tvg-id="C Malayalam TV" tvg-logo="https://i.postimg.cc/TP5jPPRz/C-Malayalam.jpg" group-title="Malayalam Local TV",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Eagle One" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Malayalam Local TV",Eagle One
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
@@ -51,6 +51,24 @@ http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
 http://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV" tvg-logo="https://i.postimg.cc/fbFXqQRj/CCV.webp" group-title="Malayalam Local TV",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w856096035.m3u8
+#EXTINF:-1 tvg-id="GTV max" tvg-logo="https://i.postimg.cc/fL9fLRv3/gtvmax.jpg" group-title="Malayalam Local TV",GTV max
+https://play.applelive.in/gtvmax/gtvmax.m3u8
+#EXTINF:-1 tvg-id="Periyar vision" tvg-logo="https://i.postimg.cc/4x4ChrqN/periyarvision.png" group-title="Malayalam Local TV",Periyar vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 tvg-id="Powran TV" tvg-logo="https://i.postimg.cc/FRrJtFB0/Powran-tv.jpg" group-title="Malayalam Local TV",Powran Tv
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
+#EXTINF:-1 tvg-id="Nattuvartha TV" tvg-logo="https://i.postimg.cc/43Sn0vVS/Nattuvartha-TV.png" group-title="Malayalam Local TV",Nattuvartha TV
+https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
+#EXTINF:-1 tvg-id="KCN HD" tvg-logo="https://i.postimg.cc/43LwF0WF/KCN-HD.png" group-title="Malayalam Local TV",KCN HD
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+#EXTINF:-1 tvg-id="CCTV Pradeshikam" tvg-logo="https://i.postimg.cc/pVGh5Hmt/CCTV-Pradeshikam.jpg" group-title="Malayalam Local TV",CCTV Pradeshikam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV Cinema" tvg-logo="https://i.postimg.cc/B6vZJjcc/CCTV-Cinema.jpg" group-title="Malayalam Local TV",CCTV Cinema
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV Kunnamkulam" tvg-logo="https://i.postimg.cc/Hxm5z9gv/cctv-kunnamkulam.jpg" group-title="Malayalam Local TV",CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="N Media" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",N Media
+https://live.skystream.in/live/newmedia2924/index.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
@@ -169,6 +187,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/safaritv/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam S2",Kairali TV
 https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
+#EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
+https://live.dinesh29.com.np/stream/jiotvplus/kairaliwetv/master.m3u8
 #EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam S2",Kaumudy TV
 https://live.dinesh29.com.np/stream/jiotvplus/kaumudytv/master.m3u8
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam S2",Kappa TV
@@ -311,7 +331,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 #EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/ddsports/master.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
 https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
