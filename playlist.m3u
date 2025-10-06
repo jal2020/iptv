@@ -69,9 +69,9 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954b
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="N Media" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",N Media
 https://live.skystream.in/live/newmedia2924/index.m3u8
-#EXTINF:-1 tvg-id="South Vision" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",South Vision
+#EXTINF:-1 tvg-id="South Vision" tvg-logo="https://i.postimg.cc/50L1VBLH/south-vision.jpg" group-title="Malayalam Local TV",South Vision
 https://live.skystream.in/live/southvsnklm/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",NTV uae
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.postimg.cc/tCDvvB75/ntv-uae.jpg" group-title="Malayalam Local TV",NTV uae
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Starnet" tvg-logo="https://i.postimg.cc/vmPXZk7r/Starnet.png" group-title="Malayalam Local TV",Starnet
 https://play.applelive.in/starnettv/starnettv.m3u8
@@ -303,9 +303,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/starsports/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
 http://familyip.vip/In_Hin_1/index.m3u8?token=884facafb7fbfd74041ec8a4761d2887
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 
+http://116.90.120.149:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
 http://familyip.vip/SS1_IND/index.m3u8?token=e2b33a477066a6aa8976858b3f460edc
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
+http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://familyip.vip/IND_SL2/index.m3u8?token=6a00d7d362bf8658989e9d1263263f4b
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
