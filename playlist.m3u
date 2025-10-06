@@ -114,6 +114,9 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443024&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443041&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Victers TV
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kerala Vision" tvg-logo="https://i.postimg.cc/KcnRTT28/channels4-profile-7.jpg" group-title="Malayalam",Kerala Vision
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443019&extension=ts&play_token=FPh4kuMnod
+
 
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
 http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
@@ -228,8 +231,6 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam News",Raj News Malayalam
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443040&extension=ts&play_token=FPh4kuMnod
-#EXTINF:-1 tvg-id="Kerala Vision News" tvg-logo="https://i.postimg.cc/KcnRTT28/channels4-profile-7.jpg" group-title="Malayalam News",Kerala Vision News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754502566/ei/RkGTaOXCJsDhp-oPp7z78As/ip/92.205.3.32/id/3446A6FzW3o.28/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477231/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNBupfCKTt8vICfIaA9m9ojJK1lpYWeOX2GCRY7tLRW1MM40KXWnuJ3wYTv9xChJitYCoeMAsuw/spc/l3OVKeRfczuG3ekqCnKf9mC5bmtkl7IArSYA1Cx2txh1BIrTCKxQtwRgKIOS0zKG9rB7RbhjKqY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548754/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgC3ldsvc_LVw-TdgWGoEO2dK1nOofIRXsvjeqoOyLVHoCIBAKvnDtK2bdqH8NwS7eooZqMx1mCBzm130_tdnq73tx/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
