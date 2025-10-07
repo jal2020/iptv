@@ -45,6 +45,8 @@ http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
 http://cloud.logichost.in:1935/live/citi/playlist.m3u8
 #EXTINF:-1 tvg-id="One tv" tvg-logo="https://i.postimg.cc/x1bjF7S5/One-tv.jpg" group-title="Malayalam Local TV",One TV
 http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MCV" tvg-logo="https://i.postimg.cc/5ywN3tzz/MCV-channel.jpg" group-title="Malayalam Local TV",MCV
+http://cloud.logichost.in:1935/live/mcvlive/index.m3u8
 #EXTINF:-1 tvg-id="Swantham" tvg-logo="https://i.postimg.cc/wjhZM887/SWANTHAM.jpg" group-title="Malayalam Local TV",Swantham TV
 http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/Zqtwmttq/kannur-vision.jpg" group-title="Malayalam Local TV",Kannur Vision
@@ -81,8 +83,10 @@ https://ipcloud.live/nvision/nvisionhd/index.m3u8
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 #EXTINF:-1 tvg-id="NV TV" tvg-logo="https://i.postimg.cc/mhxmG9YX/NV-TV.png" group-title="Malayalam Local TV",NV TV
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
-#EXTINF:-1 tvg-id="Koickal News" tvg-logo="hhttps://i.postimg.cc/BbwX8570/Koickal-News.png" group-title="Malayalam Local TV",Koickal News
+#EXTINF:-1 tvg-id="Koickal News" tvg-logo="https://i.postimg.cc/BbwX8570/Koickal-News.png" group-title="Malayalam Local TV",Koickal News
 https://play.applelive.in/koickalnews/koickalnews.m3u8
+#EXTINF:-1 tvg-id="TCN Entertainments" tvg-logo="https://i.postimg.cc/hP53r0S6/TCN-Entertainments.jpg" group-title="Malayalam Local TV",TCN Entertainments
+http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
@@ -132,6 +136,8 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443058&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam",Asianet  Middle East
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443021&extension=ts&play_token=FPh4kuMnod
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Surya TV " tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV 
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443063&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
@@ -187,6 +193,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanoramahd/master.m3u8
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil-manorama.jpg" group-title="Malayalam S2",Mazhavil Manorama
 https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanorama/master.m3u8
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
+https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
 https://live.dinesh29.com.np/stream/jiotvplus/suryatv/master.m3u8
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam S2",Surya movies
@@ -316,15 +324,15 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 http://familyip.vip/IND_SL2/index.m3u8?token=6a00d7d362bf8658989e9d1263263f4b
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
 http://familyip.vip/P_T102/index.m3u8?token=6650bba34e8a04793164a0db5d3cf03f
-#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
 http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
-#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony ten 1 HD
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
 http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony ten 2 HD
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
 http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
-#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony ten 3 Hindi
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Sports Ten 3 Hindi
 http://familyip.vip/tenso3/index.m3u8?token=665bbcb29f5d7046bbef11d5994ce69d
-#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony ten 5 HD
+#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 5 HD
 http://familyip.vip/S_Ten5/mpegts?token=e14d50e71b45923c80d2aa992a055e5f
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
 http://familyip.vip/Cr_AS/index.m3u8?token=dcff9b88e7f1dd0df79e197ab487b9f2
@@ -365,11 +373,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD keralam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony ten 2 HD
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
 http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
 #EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Super League Kerala",YouTube Live
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
 
+#EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="Hollywood Movies" tvg-logo="https://i.imgur.com/09N3JsQ.jpeg" group-title="English Movies",Hollywood Movies
@@ -463,6 +473,8 @@ https://cdn-3.pishow.tv/live/433/433_0.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ktv hd" tvg-logo="https://i.postimg.cc/VsCTvPMy/ktv-hd.jpg" group-title="Tamil",KTV HD
 https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8
+#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/d0DFSNfM/sun-tv-hd.png" group-title="Tamil",Sun TV HD
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/d0DFSNfM/sun-tv-hd.png" group-title="Tamil",Sun TV HD
 https://live.dinesh29.com.np/stream/jiotvplus/suntvhd/master.m3u8
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/T1cYXLJd/sun-music-hd.webp" group-title="Tamil",Sun music HD
