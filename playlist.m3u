@@ -329,6 +329,8 @@ http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
 http://familyip.vip/SPTEN1HD/mpegts?token=aa7b33ba07de534feedfc94274c3b109
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
+https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
 http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Sports Ten 3 Hindi
 http://familyip.vip/tenso3/index.m3u8?token=665bbcb29f5d7046bbef11d5994ce69d
@@ -374,12 +376,16 @@ https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD keralam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
+https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
 http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
 #EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Super League Kerala",YouTube Live
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="Hollywood Movies" tvg-logo="https://i.imgur.com/09N3JsQ.jpeg" group-title="English Movies",Hollywood Movies
