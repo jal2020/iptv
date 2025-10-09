@@ -347,6 +347,8 @@ http://familyip.vip/Cr_AS/index.m3u8?token=dcff9b88e7f1dd0df79e197ab487b9f2
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
 http://familyip.vip/IN_S28/index.m3u8?token=19de4711da340e63f244daf66d31475c
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
 http://familyip.vip/Wi_Cr/index.m3u8?token=6bbc06ed1f0f1866d28890f41bb9640c
 #EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://i.postimg.cc/MG5smh9G/ezgif-2239c30ea94216.jpg" group-title="Sports",Eurosport
 http://xott.live:8080/live/44637368/822766552/167585.ts
@@ -376,6 +378,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
 https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
+#EXTINF:-1 tvg-id="T Sports " tvg-logo="https://i.postimg.cc/4dhRK013/T-SPORTS-HD.jpg" group-title="Sports",T Sports 
+https://cdn.bdixtv24.vip/tsports/index.m3u8
+#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1760016787&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=c3a6142279abe75993f7af999a8851c5
 
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Super League Kerala", Sports.com
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
