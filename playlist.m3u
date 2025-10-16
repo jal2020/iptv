@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
+#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies
+https://live20.bozztv.com/giatvplayout7/giatv-208188/playlist.m3u8
+#EXTINF:-1 tvg-id="OXO Movies" tvg-logo="https://i.postimg.cc/bN38nxbT/oxo-movies.png" group-title="Malayalam Local TV",OXO Movies
+https://live20.bozztv.com/giatvplayout7/giatv-210812/playlist.m3u8
+#EXTINF:-1 tvg-id="OXO Music" tvg-logo="https://i.postimg.cc/Vs4L9PPF/oxo-music.png" group-title="Malayalam Local TV",OXO Music
+https://live20.bozztv.com/giatvplayout7/giatv-210785/playlist.m3u8
 #EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Local TV",Anand TV
@@ -87,6 +93,8 @@ https://ipcloud.live/nvtv/livetvstream/index.m3u8
 https://play.applelive.in/koickalnews/koickalnews.m3u8
 #EXTINF:-1 tvg-id="TCN Entertainments" tvg-logo="https://i.postimg.cc/hP53r0S6/TCN-Entertainments.jpg" group-title="Malayalam Local TV",TCN Entertainments
 http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/CMbr9wxh/Teak-Vision.png" group-title="Malayalam Local TV",Teak Vision Nilambur
+https://hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
