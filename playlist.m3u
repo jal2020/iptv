@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
-#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies
-https://live20.bozztv.com/giatvplayout7/giatv-210812/playlist.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 1
 http://thksmom.shop/mallatest24/7/index.m3u8?token=6bbaf856e44877f1918729a76bfb3fa2
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 2
