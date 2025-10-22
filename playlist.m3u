@@ -134,8 +134,6 @@ http://thksmom.shop/BC1_216/mpegts?token=2244d77f2b8080357db48548ef05124b
 https://cdn-2.pishow.tv/live/1453/master.m3u8
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam",Surya movies
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443065&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443056&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam",Asianet movies
@@ -152,6 +150,8 @@ https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/Su
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443063&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443066&extension=ts&play_token=FPh4kuMnod
+#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam",Surya movies
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443065&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/4dZtJPB0/surya-music.jpg" group-title="Malayalam",Surya Music
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443064&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam",Surya Comedy
