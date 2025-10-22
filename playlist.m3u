@@ -1,14 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
-#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies
-https://live20.bozztv.com/giatvplayout7/giatv-208188/playlist.m3u8
-#EXTINF:-1 tvg-id="OXO Movies" tvg-logo="https://i.postimg.cc/bN38nxbT/oxo-movies.png" group-title="Malayalam Local TV",OXO Movies
-https://live20.bozztv.com/giatvplayout7/giatv-210812/playlist.m3u8
-#EXTINF:-1 tvg-id="OXO Music" tvg-logo="https://i.postimg.cc/Vs4L9PPF/oxo-music.png" group-title="Malayalam Local TV",OXO Music
-https://live20.bozztv.com/giatvplayout7/giatv-210785/playlist.m3u8
-#EXTINF:-1 tvg-id="OXO Comedy" tvg-logo="https://i.postimg.cc/tTRqVBJb/oxo-comedy.png" group-title="Malayalam Local TV",OXO Comedy
-https://live20.bozztv.com/giatvplayout7/giatv-210797/playlist.m3u8
 #EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Local TV",Anand TV
