@@ -3,6 +3,10 @@
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies
 https://live20.bozztv.com/giatvplayout7/giatv-210812/playlist.m3u8
+#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 1
+http://thksmom.shop/mallatest24/7/index.m3u8?token=6bbaf856e44877f1918729a76bfb3fa2
+#EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 2
+http://thksmom.shop/old24/7/index.m3u8?token=4d696543d067400fff442a834ca5f79f
 #EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Local TV",Anand TV
@@ -121,12 +125,11 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443048&extens
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam",Amrita TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam",Kairali TV
-http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
+http://thksmom.shop/BC_1238/mpegts?token=72f32d2beb7e657e21c1d919fb1f2161
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam",Kairali Arabia
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443037&extension=ts&play_token=FPh4kuMnod
+http://thksmom.shop/BC1_216/mpegts?token=2244d77f2b8080357db48548ef05124b
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam",Darshana TV
 https://cdn-2.pishow.tv/live/1453/master.m3u8
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
@@ -151,6 +154,8 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443063&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443066&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/4dZtJPB0/surya-music.jpg" group-title="Malayalam",Surya Music
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443064&extension=ts&play_token=FPh4kuMnod
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam",Surya Comedy
+http://thksmom.shop/BC_1210/mpegts?token=f1fcddaf27000263ecb26006f9cf4007
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443067&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam",Surya Comedy
