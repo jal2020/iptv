@@ -215,8 +215,8 @@ http://thksmom.shop/SS1_IND/index.m3u8
 http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://thksmom.shop/IND_SL2/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Sony Ten Sports HD
-http://familyip.vip/P_T102/index.m3u8
+#EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
+http://thksmom.shop/P_T102/index.m3u8
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
 http://thksmom.shop/SPTEN1HD/index.m3u8
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
@@ -280,9 +280,9 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
-http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
+http://thksmom.shop/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
 #EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
-http://familyip.vip/AR_SaudiSunnah/index.m3u8?token=0361e45be5ad79190dbc611b6bc87779
+http://thksmom.shop/AR_SaudiSunnah/mpegts?token=0361e45be5ad79190dbc611b6bc87779
 #EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
@@ -385,13 +385,13 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
-http://familyip.vip/BC_182/mpegts?token=6c7f7abf10f0f7046cd7878fce94afb6
+http://thksmom.shop/BC_182/mpegts?token=6c7f7abf10f0f7046cd7878fce94afb6
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
-http://familyip.vip/BC_130/index.m3u8?token=9055634f288fecd04f5aee366d9de6df
+http://thksmom.shop/BC_130/index.m3u8?token=9055634f288fecd04f5aee366d9de6df
 #EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
-http://familyip.vip/BC_134/index.m3u8?token=189d72a9d2e51825d9875c174191f712
+http://thksmom.shop/BC_134/index.m3u8?token=189d72a9d2e51825d9875c174191f712
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
-http://familyip.vip/BC_132/index.m3u8?token=8d1376fbc0f3846c6190f3c0a9d4e5f7
+http://thksmom.shop/BC_132/index.m3u8?token=8d1376fbc0f3846c6190f3c0a9d4e5f7
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi",9X jalwa
@@ -444,9 +444,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-id="Chu Chu TV" tvg-logo="https://i.imgur.com/ygOwv3E.jpeg" group-title="Kids",Chu Chu TV
-http://familyip.vip/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
+http://thksmom.shop/kids247/index.m3u8?token=a3f37243b6185ca914dfcc59c6606f2a
 #EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
-http://familyip.vip/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
+http://thksmom.shop/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
 #EXTINF:-1 tvg-id="Nick Malayalam" tvg-logo="https://i.postimg.cc/qRxC5KXd/Nick-Malayalam.png" group-title="Kids",Nick Malayalam
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443029&extension=ts&play_token=FPh4kuMnod
 
