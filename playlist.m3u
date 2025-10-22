@@ -144,7 +144,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443058&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam",Asianet  Middle East
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443021&extension=ts&play_token=FPh4kuMnod
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443063&extension=ts&play_token=FPh4kuMnod
