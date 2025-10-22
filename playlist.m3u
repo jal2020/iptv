@@ -95,6 +95,8 @@ https://hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="DD Malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD Malayalam
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:54&stream=443051&extension=ts
+#EXTINF:-1 tvg-id="DD Malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD Malayalam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443062&extension=ts&play_token=FPh4kuMnod
@@ -111,7 +113,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443043&extens
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam",Jaihind TV
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443053&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443020&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
@@ -122,6 +124,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extens
 http://familyip.vip/BC_1238/mpegts?token=c8199ac9cab800d08e230ff836b1296b
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam",Kairali Arabia
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443051&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443037&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam",Darshana TV
@@ -131,7 +134,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam",Surya movies
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443065&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443056&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam",Asianet movies
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443057&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam",Asianet HD
@@ -142,16 +145,16 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443021&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="Surya TV " tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV 
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443063&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443066&extension=ts&play_token=FPh4kuMnod
+#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/4dZtJPB0/surya-music.jpg" group-title="Malayalam",Surya Music
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443064&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443067&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam",Surya Comedy
 http://iptvplatinum.net:80/play/live.php?mac=00:1A:79:00:11:8B&stream=1528392&extension=ts&play_token=nUt40QZGyR
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/4dZtJPB0/surya-music.jpg" group-title="Malayalam",Surya Music
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443064&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Malayalam Music" tvg-logo="https://i.postimg.cc/vHWCSHCt/image.jpg" group-title="Malayalam",Malayalam Music
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443024&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Raj Musuc Malayalam" tvg-logo="https://i.postimg.cc/nrZVNwVd/Raj-music-mlm.jpg" group-title="Malayalam",Raj Music Malayalam
@@ -160,105 +163,6 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443041&extens
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kerala Vision" tvg-logo="https://i.postimg.cc/KcnRTT28/channels4-profile-7.jpg" group-title="Malayalam",Kerala Vision
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443019&extension=ts&play_token=FPh4kuMnod
-
-#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://sports.kite.kerala.gov.in/2025/site//assets/templateFront/images/2025-logo.jpg" group-title="Kerala School Kayikamela",Kerala School Kayikamela
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
-https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1759999114~exp=1760002714~acl=!*/181224/smil:ymcc12thneet.smil/*!yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/payload/yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/*~hmac=4c30ff1cf1bc0a8c003d95b9b19e1c1bf888e14f2c7f156834913ac2171e41d4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=SPO&ads.content_genre=Education&ads.channel=4721&ads.channel_name=TuritoNEET&ads.network_name=yupptv&ads.user=0
-
-#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
-http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
-#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
-http://familyip.vip/AR_SaudiSunnah/index.m3u8?token=0361e45be5ad79190dbc611b6bc87779
-#EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
-https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
-https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 tvg-id="Shalom TV" tvg-logo="https://i.imgur.com/0eVTmtf.png" group-title="Religious",Shalom TV
-https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Shalom TV Global" tvg-logo="https://i.imgur.com/qUjsV79.png" group-title="Religious",Shalom TV Global
-https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Peace Tv" tvg-logo="https://i.postimg.cc/YqGNfdRH/peace-tv.jpg" group-title="Religious",Peace Tv
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="Shekinah TV" tvg-logo="https://i.postimg.cc/CL4cVrZ8/Shekinah-TV.jpg" group-title="Religious",Shekinah TV
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-
-
-"
-#EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam S2",Asianet HD
-https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
-#EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.postimg.cc/Jz8BLpzL/asianet.jpg" group-title="Malayalam S2",Asianet
-https://live.dinesh29.com.np/stream/jiotvplus/asianet/master.m3u8
-#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam S2",Asianet movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
-#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam S2",Asianet movies
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
-#EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam S2",Asianet Plus
-https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
-#EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/prN1Vw72/mazhavil-manorama-hd.jpg" group-title="Malayalam S2",Mazhavil Manorama HD
-https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanoramahd/master.m3u8
-#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil-manorama.jpg" group-title="Malayalam S2",Mazhavil Manorama
-https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanorama/master.m3u8
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
-https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam S2",Surya TV HD
-https://live.dinesh29.com.np/stream/jiotvplus/suryatv/master.m3u8
-#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam S2",Surya movies
-https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/kg8GBKBX/surya-music.png" group-title="Malayalam S2",Surya Music
-https://live.dinesh29.com.np/stream/jiotvplus/suryamusic/master.m3u8
-#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam S2",Surya Comedy
-https://live.dinesh29.com.np/stream/jiotvplus/suryacomedy/master.m3u8
-#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam S2",Kochu TV
-https://live.dinesh29.com.np/stream/jiotvplus/kochutv/master.m3u8
-#EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam S2",Safari TV
-https://live.dinesh29.com.np/stream/jiotvplus/safaritv/master.m3u8
-#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam S2",Amrita TV
-https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
-#EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam S2",Kairali TV
-https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
-#EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
-https://live.dinesh29.com.np/stream/jiotvplus/kairaliwetv/master.m3u8
-#EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam S2",Kaumudy TV
-https://live.dinesh29.com.np/stream/jiotvplus/kaumudytv/master.m3u8
-#EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam S2",Kappa TV
-https://live.dinesh29.com.np/stream/jiotvplus/kappatv/master.m3u8
-#EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam S2",Jaihind TV
-https://live.dinesh29.com.np/stream/jiotvplus/jaihindtv/master.m3u8
-#EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam S2",Jeevan TV
-https://live.dinesh29.com.np/stream/jiotvplus/jeevantv/master.m3u8
-#EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam S2",DD malayalam
-https://live.dinesh29.com.np/stream/jiotvplus/ddmalayalam/master.m3u8"
-
-#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam S2",Asianet News
-https://live.dinesh29.com.np/stream/jiotvplus/asianetnews/master.m3u8
-#EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam S2",Reporter TV
-https://live.dinesh29.com.np/stream/jiotvplus/reportertv/master.m3u8
-#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.imgur.com/6DOCPsl.jpeg" group-title="Malayalam S2",Twenty Four News
-https://live.dinesh29.com.np/stream/jiotvplus/twentyfournews/master.m3u8
-#EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Malayalam S2",News Malayalam 24x7
-https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
-#EXTINF:-1 tvg-id="Manorama News" tvg-logo="https://i.imgur.com/n9ABnlu.jpeg" group-title="Malayalam S2",Manorama News
-https://live.dinesh29.com.np/stream/jiotvplus/manoramanews/master.m3u8
-#EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam S2",Mathrubhumi News
-https://live.dinesh29.com.np/stream/jiotvplus/mathrubhuminews/master.m3u8
-#EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.imgur.com/Jmdo2L6.jpeg" group-title="Malayalam S2",Media One
-https://live.dinesh29.com.np/stream/jiotvplus/mediaonetv/master.m3u8
-#EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.imgur.com/SjOjdmM.jpeg" group-title="Malayalam S2",Kairali News
-https://live.dinesh29.com.np/stream/jiotvplus/kairalinews/master.m3u8
-#EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.imgur.com/HIFufHH.jpeg" group-title="Malayalam S2",News 18 Kerala 
-https://live.dinesh29.com.np/stream/jiotvplus/news18kerala/master.m3u8
-#EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.imgur.com/HGqzaen.jpeg" group-title="Malayalam S2",Zee Malayalam News
-https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam S2",Raj News Malayalam
-https://live.dinesh29.com.np/stream/jiotvplus/rajnewsmalayalam/master.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
@@ -286,6 +190,30 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam News",Raj News Malayalam
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443040&extension=ts&play_token=FPh4kuMnod
+
+#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
+https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1759999114~exp=1760002714~acl=!*/181224/smil:ymcc12thneet.smil/*!yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/payload/yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/*~hmac=4c30ff1cf1bc0a8c003d95b9b19e1c1bf888e14f2c7f156834913ac2171e41d4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=SPO&ads.content_genre=Education&ads.channel=4721&ads.channel_name=TuritoNEET&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
+http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
+#EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
+http://familyip.vip/AR_SaudiSunnah/index.m3u8?token=0361e45be5ad79190dbc611b6bc87779
+#EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Harvest TV" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Shalom TV" tvg-logo="https://i.imgur.com/0eVTmtf.png" group-title="Religious",Shalom TV
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Shalom TV Global" tvg-logo="https://i.imgur.com/qUjsV79.png" group-title="Religious",Shalom TV Global
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Peace Tv" tvg-logo="https://i.postimg.cc/YqGNfdRH/peace-tv.jpg" group-title="Religious",Peace Tv
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="Shekinah TV" tvg-logo="https://i.postimg.cc/CL4cVrZ8/Shekinah-TV.jpg" group-title="Religious",Shekinah TV
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
