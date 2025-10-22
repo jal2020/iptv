@@ -272,17 +272,13 @@ https://cdn.bdixtv24.vip/tsports/index.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
 http://thksmom.shop/Gazi_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Super League Kerala", Sports.com
-https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
+
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD keralam
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
+http://thksmom.shop/IN_SNT2/index.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
 https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
-http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
-#EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Super League Kerala",YouTube Live
-https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
 http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
@@ -460,4 +456,9 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443029&extens
 https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=430&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="Test 2" tvg-logo="https://yt3.googleusercontent.com/v4Dxo5UtSrqmq1pRj7r9y8sIBKg_nOrOZVYwUJ9ZmJcB4YtCxBjNyxmU1I1bBbwtm_Lq-u4D=s160-c-k-c0x00ffffff-no-rj" group-title="Test",Test 2
 https://youtube.com/watch?v=3446A6FzW3o&pp=uAQw
+#EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Test",YouTube Live
+https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
+#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
+https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
+
 
