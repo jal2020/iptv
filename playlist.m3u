@@ -161,6 +161,9 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kerala Vision" tvg-logo="https://i.postimg.cc/KcnRTT28/channels4-profile-7.jpg" group-title="Malayalam",Kerala Vision
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443019&extension=ts&play_token=FPh4kuMnod
 
+#EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://sports.kite.kerala.gov.in/2025/site//assets/templateFront/images/2025-logo.jpg" group-title="Kerala School Kayikamela",Kerala School Kayikamela
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",Victers TV
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
