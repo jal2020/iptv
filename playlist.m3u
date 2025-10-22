@@ -201,6 +201,89 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
 https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st=1759999114~exp=1760002714~acl=!*/181224/smil:ymcc12thneet.smil/*!yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/payload/yuppTVCom_5_-1_36e21ecbadd145cd_AE_217.165.12.215/*~hmac=4c30ff1cf1bc0a8c003d95b9b19e1c1bf888e14f2c7f156834913ac2171e41d4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=SPO&ads.content_genre=Education&ads.channel=4721&ads.channel_name=TuritoNEET&ads.network_name=yupptv&ads.user=0
 
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 HD
+http://thksmom.shop/IN_2ST/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
+http://thksmom.shop/dd_s_t/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
+http://116.90.120.149:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
+http://thksmom.shop/SS1_IND/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
+http://116.90.120.149:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
+http://thksmom.shop/IND_SL2/index.m3u8
+#EXTINF:-1 tvg-id="Sony Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Sony Ten Sports HD
+http://familyip.vip/P_T102/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
+http://thksmom.shop/SPTEN1HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
+http://thksmom.shop/IN_SNT2/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
+https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Sports Ten 3 Hindi
+http://thksmom.shop/tenso3/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 5 HD
+http://thksmom.shop/PK_A_S/index.m3u8
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
+http://thksmom.shop/Cr_AS/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
+http://thksmom.shop/AE_1018/index.m3u8
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
+http://thksmom.shop/Wi_Cr/index.m3u8
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
+http://thksmom.shop/Wi_Cr/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 1
+http://thksmom.shop/BC_312/index.m3u8?token=0229d2e4f62e3da8d73dda3e197f1b02
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://i.postimg.cc/MG5smh9G/ezgif-2239c30ea94216.jpg" group-title="Sports",Eurosport
+http://xott.live:8080/live/44637368/822766552/167585.ts
+#EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.postimg.cc/26CvhLfZ/Sharjah-Sports.jpg" group-title="Sports",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 1
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 2 
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae"tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
+https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
+https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
+https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
+#EXTINF:-1 tvg-id="T Sports " tvg-logo="https://i.postimg.cc/4dhRK013/T-SPORTS-HD.jpg" group-title="Sports",T Sports 
+https://cdn.bdixtv24.vip/tsports/index.m3u8
+#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
+http://thksmom.shop/Gazi_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Super League Kerala", Sports.com
+https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
+#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD keralam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
+https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
+http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
+#EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Super League Kerala",YouTube Live
+https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
 http://familyip.vip/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
 #EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
@@ -247,87 +330,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1
 #EXTINF:-1 tvg-id="BBC Travel- 2HD" tvg-logo="https://i.postimg.cc/NFC6wjqy/bbc-travel.png" group-title="Documentary",BBC Travel- 2HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
-
-
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 HD
-http://thksmom.shop/IN_2ST/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports Tamil 1 HD
-http://thksmom.shop/dd_s_t/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Hindi 1 HD
-http://116.90.120.149:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
-http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
-http://thksmom.shop/SS1_IND/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
-http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
-http://thksmom.shop/IND_SL2/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Sony Ten Sports HD
-http://familyip.vip/P_T102/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
-http://thksmom.shop/SPTEN1HD/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
-http://thksmom.shop/IN_SNT2/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
-https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Sports Ten 3 Hindi
-http://thksmom.shop/tenso3/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 5 HD
-http://thksmom.shop/PK_A_S/index.m3u8
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
-http://thksmom.shop/Cr_AS/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
-http://thksmom.shop/AE_1018/index.m3u8
-#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
-http://thksmom.shop/Wi_Cr/index.m3u8
-#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
-http://thksmom.shop/Wi_Cr/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://i.postimg.cc/MG5smh9G/ezgif-2239c30ea94216.jpg" group-title="Sports",Eurosport
-http://xott.live:8080/live/44637368/822766552/167585.ts
-#EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.postimg.cc/26CvhLfZ/Sharjah-Sports.jpg" group-title="Sports",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 1
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 2 
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae"tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
-https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
-https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
-https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
-#EXTINF:-1 tvg-id="T Sports " tvg-logo="https://i.postimg.cc/4dhRK013/T-SPORTS-HD.jpg" group-title="Sports",T Sports 
-https://cdn.bdixtv24.vip/tsports/index.m3u8
-#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
-http://thksmom.shop/Gazi_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Super League Kerala", Sports.com
-https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD keralam
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
-https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
-http://familyip.vip/IN_SNT2/mpegts?token=5d70d3e08befe43b90edbcba6a3fe274
-#EXTINF:-1 tvg-id="YouTube Live" tvg-logo="https://i.postimg.cc/ydTKmGnB/You-Tube-live.png" group-title="Super League Kerala",YouTube Live
-https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
