@@ -201,6 +201,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=441104&extension=ts&play_token=wFrRLMA0aV
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 HD
 http://thksmom.shop/IN_2ST/index.m3u8
