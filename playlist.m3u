@@ -111,7 +111,7 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443043&extension=ts&play_token=FPh4kuMnod
+http://thksmom.shop/BC_1232/mpegts?token=72f32d2beb7e657e21c1d919fb1f2161
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam",Jaihind TV
@@ -119,7 +119,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443053&extens
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443020&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443048&extension=ts&play_token=FPh4kuMnod
+http://thksmom.shop/BC_1236/mpegts?token=72f32d2beb7e657e21c1d919fb1f2161
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/NRFZJvl.jpeg" group-title="Malayalam",Amrita TV
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443055&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam",Kairali TV
