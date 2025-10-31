@@ -423,20 +423,22 @@ http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156003&ext
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/d0DFSNfM/sun-tv-hd.png" group-title="Tamil",Sun TV HD
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-id="ktv hd" tvg-logo="https://i.postimg.cc/VsCTvPMy/ktv-hd.jpg" group-title="Tamil",KTV HD
+http://87.255.35.150:18805/
+#EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
+http://87.255.35.150:18805/
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/T1cYXLJd/sun-music-hd.webp" group-title="Tamil",Sun music HD
+http://87.255.35.150:18821/
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
-https://segment.yuppcdn.net/140622/isaiaruvi/140622/isaiaruvi_1800/chunks.m3u8
+https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
 https://cdn-3.pishow.tv/live/433/433_0.m3u8
 #EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ktv hd" tvg-logo="https://i.postimg.cc/VsCTvPMy/ktv-hd.jpg" group-title="Tamil",KTV HD
-https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8
-#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/d0DFSNfM/sun-tv-hd.png" group-title="Tamil",Sun TV HD
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/d0DFSNfM/sun-tv-hd.png" group-title="Tamil",Sun TV HD
-https://live.dinesh29.com.np/stream/jiotvplus/suntvhd/master.m3u8
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/T1cYXLJd/sun-music-hd.webp" group-title="Tamil",Sun music HD
-https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/brx8V1BF/Zee-Tamil.jpg" group-title="Tamil",Zee Tamil
+http://87.255.35.150:18553/
 #EXTINF:-1 tvg-id="Village Cooking Channel" tvg-logo="https://i.postimg.cc/ZnDP4v2h/village-cooking-channel.jpg" group-title="Tamil",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
 
