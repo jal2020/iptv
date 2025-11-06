@@ -229,6 +229,8 @@ https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
 http://thksmom.shop/tenso3/index.m3u8
 #EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 5 HD
 http://thksmom.shop/ptvs4/index.m3u8?token=8a6fcf7258782b9a893f3a753aa73bad
+#EXTINF:-1 tvg-id="Fox 501 HD" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox-501-hd.jpg" group-title="Sports",Fox 501 HD
+https://rumble.com/live-hls/6z456e/playlist.m3u8 
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
 http://thksmom.shop/Cr_AS/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
@@ -239,8 +241,8 @@ http://thksmom.shop/Wi_Cr/index.m3u8
 http://thksmom.shop/Wi_Cr/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 1
 http://thksmom.shop/BC_312/index.m3u8?token=0229d2e4f62e3da8d73dda3e197f1b02
-#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://i.postimg.cc/MG5smh9G/ezgif-2239c30ea94216.jpg" group-title="Sports",Eurosport
-http://xott.live:8080/live/44637368/822766552/167585.ts
+#EXTINF:-1 tvg-id="solhsports" tvg-logo="https://i.postimg.cc/Z5QtVZRK/Solh-Sports.jpg" group-title="Sports",Solh Sports
+https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
