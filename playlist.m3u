@@ -135,9 +135,9 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443056&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam",Asianet movies
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443057&extension=ts&play_token=FPh4kuMnod
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443057&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam",Asianet HD
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:53&stream=443058&extension=ts&play_token=FPh4kuMnod
+http://87.255.35.150:18551/ 
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443059&extension=ts&play_token=FPh4kuMnod
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam",Asianet  Middle East
@@ -335,6 +335,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="BBC Travel- 2HD" tvg-logo="https://i.postimg.cc/NFC6wjqy/bbc-travel.png" group-title="Documentary",BBC Travel- 2HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
 
+#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies Select HD
+http://87.255.35.150:18548/
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
@@ -433,12 +435,14 @@ http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156003&ext
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="ktv hd" tvg-logo="https://i.postimg.cc/VsCTvPMy/ktv-hd.jpg" group-title="Tamil",KTV HD
 http://87.255.35.150:18805/
-#EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
-http://87.255.35.150:18805/
+#EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/tTTxFXz8/colors-tamil-hd.jpg" group-title="Tamil",Colors Tamil HD
+http://87.255.35.150:18550/
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/T1cYXLJd/sun-music-hd.webp" group-title="Tamil",Sun music HD
 http://87.255.35.150:18821/
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
 https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
+http://87.255.35.150:18805/
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
 https://cdn-3.pishow.tv/live/433/433_0.m3u8
 #EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
@@ -447,6 +451,8 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 http://87.255.35.150:18553/
 #EXTINF:-1 tvg-id="Village Cooking Channel" tvg-logo="https://i.postimg.cc/ZnDP4v2h/village-cooking-channel.jpg" group-title="Tamil",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://i.postimg.cc/sxsJFFPK/Gemini-TV-HD.png" group-title="Tamil",Gemini TV
+http://87.255.35.150:18814/
 
 #EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://i.postimg.cc/k4Jyd8SX/mbc-3.webp" group-title="Kids",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
