@@ -54,7 +54,7 @@ http://cloud.logichost.in:1935/live/mcvlive/index.m3u8
 #EXTINF:-1 tvg-id="Swantham" tvg-logo="https://i.postimg.cc/wjhZM887/SWANTHAM.jpg" group-title="Malayalam Local TV",Swantham TV
 http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/Zqtwmttq/kannur-vision.jpg" group-title="Malayalam Local TV",Kannur Vision
-http://stream.logichost.in/kannurvision/live/playlist.m3u8
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV" tvg-logo="https://i.postimg.cc/fbFXqQRj/CCV.webp" group-title="Malayalam Local TV",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w856096035.m3u8
 #EXTINF:-1 tvg-id="GTV max" tvg-logo="https://i.postimg.cc/fL9fLRv3/gtvmax.jpg" group-title="Malayalam Local TV",GTV max
