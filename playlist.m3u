@@ -325,6 +325,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
 https://edge2-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
 #EXTINF:-1 tvg-id="history HD" tvg-logo="https://i.postimg.cc/DZHK99b5/TravelXP.jpg" group-title="Documentary",Sky History FHD
 http://thksmom.shop/UK_history_FHD/mpegts?token=0e6cb6d85c6b2a492e32a57b9ee634bf
