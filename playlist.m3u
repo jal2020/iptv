@@ -286,16 +286,6 @@ https://tgn.bozztv.com/eshgtv-36bay3/gf-rtasports/index.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
 http://thksmom.shop/Gazi_TV/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD Malayalam
-https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
-#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/vHK4mSK6/Super-League-Kerala.png" group-title="Super League Kerala", DD Malayalam
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/1.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
-http://thksmom.shop/IN_SNT2/index.m3u8
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Super League Kerala",Sony Sports Ten 2 HD
-https://cdn.bdixtv24.vip/SonyTen2HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
 http://thksmom.shop/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
 #EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
