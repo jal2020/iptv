@@ -471,12 +471,10 @@ http://thksmom.shop/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81
 #EXTINF:-1 tvg-id="Majid TV" tvg-logo="https://i.postimg.cc/gJtpXcts/majid_TV.jpg" group-title="Kids",Majid TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 
-#EXTINF:-1 tvg-id="Baby first" tvg-logo="https://i.imgur.com/bBePEwA.png" group-title="Kids",Baby first
-https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1 tvg-id="Nick Malayalam" tvg-logo="https://i.postimg.cc/qRxC5KXd/Nick-Malayalam.png" group-title="Kids",Nick Malayalam
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443029&extension=ts&play_token=FPh4kuMnod
-
-
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
+https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8
+#EXTINF:-1 tvg-id="Dora TV" tvg-logo="https://i.postimg.cc/6p6yvqYH/dora_buji.jpg" group-title="Kids",Dora TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 #EXTINF:-1 tvg-id="Test 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/330px-SMPTE_Color_Bars.svg.png" group-title="Test",Test 1
 https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=430&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="Test 2" tvg-logo="https://yt3.googleusercontent.com/v4Dxo5UtSrqmq1pRj7r9y8sIBKg_nOrOZVYwUJ9ZmJcB4YtCxBjNyxmU1I1bBbwtm_Lq-u4D=s160-c-k-c0x00ffffff-no-rj" group-title="Test",Test 2
