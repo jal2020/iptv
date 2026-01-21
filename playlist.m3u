@@ -248,11 +248,11 @@ http://thksmom.shop/BC_312/index.m3u8?token=0229d2e4f62e3da8d73dda3e197f1b02
 #EXTINF:-1 tvg-id="solhsports" tvg-logo="https://i.postimg.cc/Z5QtVZRK/Solh-Sports.jpg" group-title="Sports",Solh Sports
 https://solhtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="AD Sports 2 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 2 HD
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="SSC 1 HD" tvg-logo="https://i.postimg.cc/ZYvND0J6/Sports-HD.jpg" group-title="Sports",Sports HD
-https://live20.bozztv.com/akamaissh101/ssh101/qallamsportttt/playlist.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+#EXTINF:-1 tvg-id="Yas TV" tvg-logo="https://i.postimg.cc/bwh7v2Y5/y-AS-TV.jpg" group-title="Sports",Yas TV HD
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.postimg.cc/26CvhLfZ/Sharjah-Sports.jpg" group-title="Sports",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 1
@@ -325,7 +325,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571
 #EXTINF:-1 tvg-id="history HD" tvg-logo="https://i.postimg.cc/DZHK99b5/TravelXP.jpg" group-title="Documentary",Sky History FHD
 http://thksmom.shop/UK_history_FHD/mpegts?token=0e6cb6d85c6b2a492e32a57b9ee634bf
 #EXTINF:-1 tvg-id="National Geographic  Abu Dhabi" tvg-logo="https://i.postimg.cc/j5N2Skrs/National-Geographic-Abu-Dhabi.webp" group-title="Documentary",National Geographic Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://thksmom.shop/NAT_GEO_UK/mpegts?token=c513e99d4042655964e13ae998838eb9
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
