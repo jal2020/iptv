@@ -129,7 +129,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:28:59&stream=443051&extens
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
 http://thksmom.shop/BC1_216/mpegts?token=2244d77f2b8080357db48548ef05124b
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam",Darshana TV
-https://cdn-2.pishow.tv/live/1453/master.m3u8
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
