@@ -268,7 +268,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 #EXTINF:-1 tvg-id="DDubai Sports 3" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports 1.0
-http://23.227.130.34/CF5A68754DABZZZZ8f3289974a2f5cfd813a937bbbf3/index.m3u8?token=6012e1c82bbc62b6051c3e53f283002a
+https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
@@ -276,14 +276,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
 https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
-https://live20.bozztv.com/akamaissh101/ssh101/mojkanal/chunks.m3u8
-#EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/4dhRK013/T-SPORTS-HD.jpg" group-title="Sports",RTA Sports HD
+#EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/4dhRK013/T-SPORTS-HD.jpg" group-title="Sports",RTA Sports HD1
-https://tgn.bozztv.com/eshgtv-36bay3/gf-rtasports/index.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
 http://thksmom.shop/Gazi_TV/index.m3u8
-#EXTINF:-1 tvg-id="Fox 501 HD" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox-501-hd.jpg" group-title="Sports",Fox 501 HD
+#EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.postimg.cc/bNbWQL59/geo_sports.jpg" group-title="Sports",Geo Sports
 http://thksmom.shop/BC_434/index.m3u8
 
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
