@@ -206,7 +206,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam Sever 2",Asianet News
 http://tv.cloudcdn.me:80/live.ts?channelId=43471&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.postimg.cc/Dzyq2QRP/TWENTY-FOUR-NEWS.png" group-title="Malayalam Sever2",Twenty Four News
+#EXTINF:-1 tvg-id="Twenty Four News" tvg-logo="https://i.postimg.cc/Dzyq2QRP/TWENTY-FOUR-NEWS.png" group-title="Malayalam Sever 2",Twenty Four News
 http://tv.cloudcdn.me:80/live.ts?channelId=43526&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam Sever 2",Reporter TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43482&uid=13298&deviceMac=00:1A:79:02:23:00
