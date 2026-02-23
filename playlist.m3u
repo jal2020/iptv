@@ -294,14 +294,27 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=13298&deviceMac=00:1A:79:02
 
 
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IND vs NZ T20",Star Sports 1 HD
-http://thksmom.shop/IN_4009/index.m3u8
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="IND vs NZ T20",Astro Cricket
-http://thksmom.shop/Cr_AS/index.m3u8
-#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="IND vs NZ T20",Willow Cricket
-http://thksmom.shop/Wi_Cr/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="IND vs NZ T20",Sky Sports Cricket
-http://thksmom.shop/AE_1018/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/BvVKxDJP/sky_sports_cricket.jpg" group-title="T20 World Cup",Sky Sports Cricket
+http://18463.b-cdn.net/CF5A68754DA1ZZZZ8f3289974a2f5beb9b298318/index.m3u8?token=b6c7bf56ce8200bd14840fcd4c181d18
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/BvVKxDJP/sky_sports_cricket.jpg" group-title="T20 World Cup",Sky Sports Cricket HD
+http://19229.b-cdn.net/CF5A68754DA1ZZZZ8f3289974a2f5beb9b29831b/index.m3u8?token=ed093835fad3fda8bc7c3c512201f678
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/BvVKxDJP/sky_sports_cricket.jpg" group-title="T20 World Cup",Sky Sports Cricket
+http://184.107.124.2/CF5A68754DA1ZZZZ8f3289974a2f4bf28b398c66bdf44f344cc2e5c28f03878e531f47/index.m3u8?token=50dfbdda5daa8134395d50d2ef3a6548
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow_cricket.jpg" group-title="T20 World Cup",Willow Cricket
+http://184.107.124.2/CF5A68754DA1ZZZZ8f3289974a2f5beb9b29831a/index.m3u8?token=bbf1cf149a14ee9a346e916d6bd41cc0
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow_cricket.jpg" group-title="T20 World Cup",Willow Cricket 2
+http://19225.b-cdn.net/CF5A68754DA1ZZZZ8f3289974a2f5beb9b29831d/index.m3u8?token=b1e1ae19e1d683206d368b95b59bfa40
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="T20 World Cup",Star Sports 1 HD
+http://19223.b-cdn.net/CF5A68754DA1ZZZZ8f3289974a2f4bed93388f79a0f248242fbfedcc84108d8f4463/index.m3u8?token=35a93a2328a213c603bb2d96a0e0975e
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="T20 World Cup",Star Sports 1 HD
+http://198.50.126.4/CF5A68754DA1ZZZZ8f3289974a2f4bed93388f79a0f248242fcdeecd8f19868a5e7844df38/index.m3u8?token=3d8770b3c39b3b68033dc29a26cd8d4e
+#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="T20 World Cup",Star Sports Tamil 1 HD
+http://198.50.126.3/CF5A68754DA1ZZZZ8f3289974a2f4bed93388f79a0f248242fdfe7c4831b8982/index.m3u8?token=33881133323c9e2f089be9a0b03b9dcb
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow_cricket.jpg" group-title="T20 World Cup",Willow Cricket
+http://192.101.68.28/CF5A68754DA1ZZZZ8f3289974a2f4ff09e26937ebcf053254ad8e0c18e/index.m3u8?token=ddc51fa9cc3ea374705f3fd90631b7d6
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="T20 World Cup",Astro Cricket
+http://198.50.126.3/CF5A68754DA1ZZZZ8f3289974a2f59ea8638936abde95f3c5bdfe0c18e/index.m3u8?token=2a5b46842bba851c6555d73a6874c7f0
+
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://thksmom.shop/IN_4009/index.m3u8
