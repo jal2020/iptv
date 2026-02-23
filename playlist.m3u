@@ -314,6 +314,8 @@ http://198.50.126.3/CF5A68754DA1ZZZZ8f3289974a2f4bed93388f79a0f248242fdfe7c4831b
 http://192.101.68.28/CF5A68754DA1ZZZZ8f3289974a2f4ff09e26937ebcf053254ad8e0c18e/index.m3u8?token=ddc51fa9cc3ea374705f3fd90631b7d6
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="T20 World Cup",Astro Cricket
 http://198.50.126.3/CF5A68754DA1ZZZZ8f3289974a2f59ea8638936abde95f3c5bdfe0c18e/index.m3u8?token=2a5b46842bba851c6555d73a6874c7f0
+#EXTINF:-1 tvg-id="T20 World Cup Replay" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="T20 World Cup",T20 World Cup Replay
+http://184.107.124.2/CF5A68754DA1ZZZZ8f328ef5352f4ff680269876acf54c282cbb94bf/index.m3u8?token=347172fde67a1aff85bf7c3a52c05704
 
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
