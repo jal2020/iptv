@@ -100,7 +100,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-id="DD Malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD Malayalam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
-http://thksmom.shop/BC_1240/mpegts?token=72f32d2beb7e657e21c1d919fb1f2161
+http://datahub11.com:8080/live/758811/854100/9030.ts
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam",Garshom TV
