@@ -161,12 +161,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:02
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:02:23:00
-
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam",Kairali TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
 http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=13298&deviceMac=00:1A:79:02:23:00
-
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43477&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Pulari TV" tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam",Pulari TV
@@ -214,7 +212,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=13298&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:02:23:00
-
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
@@ -246,15 +243,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=13298&deviceMac=00:1A:79:02
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13298&deviceMac=00:1A:79:02:23:00
 
-#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Ten 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Sports Ten 2 HD
+#EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Ten 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Sports Ten 3 Hindi
+#EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Ten 3 Hindi
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 4 HD
+#EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 4 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 5 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13298&deviceMac=00:1A:79:02:23:00
 
 #EXTINF:-1 tvg-id="AD Sports 1 HD" tvg-logo="https://i.postimg.cc/jjN7nQwc/abu-dhabi-sports.png" group-title="Sports",Abu Dhabi Sports 1 HD
@@ -291,12 +288,12 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.postimg.cc/bNbWQL59/geo_sports.jpg" group-title="Sports",Geo Sports
 
 
-
-
+#EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
-http://thksmom.shop/SAUDIQRAANHD/mpegts?token=264f03fab9c668708af60a60932bb286
+http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
-http://thksmom.shop/AR_SaudiSunnah/mpegts?token=0361e45be5ad79190dbc611b6bc87779
+http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
