@@ -488,6 +488,8 @@ https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Sonic Malayalam" tvg-logo="https://i.postimg.cc/HszvGdkN/sonic_malayalam.png" group-title="Kids",Sonic Malayalam
+http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Chutti TV" tvg-logo="https://i.postimg.cc/3wgRtSKy/Sun_chutti_tv.png" group-title="Kids",Chutti TV
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
