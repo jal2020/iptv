@@ -269,14 +269,15 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 1
 #EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 2 
 #EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.postimg.cc/C5J3Tt4P/dubai-racing.jpg" group-title="Sports",Dubai Racing 3
-#EXTINF:-1 tvg-id="DDubai Sports 1" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 1
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 1
 #EXTINF:-1 tvg-id="Dubai Sports 2"tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 2
-#EXTINF:-1 tvg-id="DDubai Sports 3" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
 
-#EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports 1.0
-https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="DD Sports HD" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports HD
+http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.postimg.cc/xTwXkJjp/bein-sports-1.png" group-title="Sports",Bein Sports 1
 https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.postimg.cc/43NHZCxX/Be-In-Sports-2-Australia.png" group-title="Sports",Bein Sports 2
