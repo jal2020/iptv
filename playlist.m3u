@@ -197,15 +197,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=13298&deviceMac=00:1A:79:02
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Star Sports Hindi 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 Hindi HD
 http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Star Sports Tamil 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Tamil HD
+#EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Star Sports Telugu 1 HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Telugu HD
+#EXTINF:-1 tvg-id="Star Sports 1 Telugu HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Telugu HD
 http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Star Sports Hindi 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 Hindi HD
 http://tv.cloudcdn.me:80/live.ts?channelId=132883&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 3
 http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=13298&deviceMac=00:1A:79:02:23:00
