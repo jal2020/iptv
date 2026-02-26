@@ -128,13 +128,13 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
 
 
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.imgur.com/xCzqv5Y.jpeg" group-title="Malayalam",Surya TV HD
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/50mzGkNT/Surya_TVHD.png" group-title="Malayalam",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.imgur.com/BqDn3uJ.png" group-title="Malayalam",Surya movies
+#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/DZ5W5JBc/Surya_Movies.png" group-title="Malayalam",Surya Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/4dZtJPB0/surya-music.jpg" group-title="Malayalam",Surya Music
+#EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/rpNzFRXs/Surya_Music.png" group-title="Malayalam",Surya Music
 http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/kgvQmcGp/surya-comedy.jpg" group-title="Malayalam",Surya Comedy
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/Wzh4n9Dr/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
 http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam",Kochu TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
