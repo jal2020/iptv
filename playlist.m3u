@@ -519,12 +519,15 @@ https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/kX0zgpnT/Ep932.png" group-title="😆 Marimayam", Episode 932 | 01 Mar 2026
+https://manoramavod.akamaized.net/vod/caf2ca9c-ce9f-4f51-891d-6276c6e14a38/183070/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/QxYNYsJM/Ep931.png" group-title="😆 Marimayam", Episode 931 | 28 Feb 2026
+https://manoramavod.akamaized.net/vod/bf691373-040e-45fd-9951-c2e4b9464dc5/183040/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtvmyplex/640/360/182903/1920x1080_Ep930Marimayam_182903_9e5e9354-46cb-4424-902b-5f0a32917d09.png" group-title="😆 Marimayam", Episode 930 | 22 Feb 2026  
 https://manoramavod.akamaized.net/vod/28df5cc7-8f9f-4324-82f5-6ae5178ff562/182903/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtvmyplex/640/360/182882/1920x1080_Ep929MarimayamAretheretrulyindividualswhospreadrumorslikethis_182882_f2d3a12a-5c29-4e4a-930c-6312ba261980.png" group-title="😆 Marimayam", Episode 929 | 21 Feb 2026  
 https://manoramavod.akamaized.net/vod/41f132b7-8dea-4384-9cb8-93838e8da936/182882/master.m3u8
-#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtvmyplex/640/360/182747/1920x1080_Ep928Marimayam_182747_5c86062a-a296-4c56-ade0-33f89769c1ba.png" group-title="😆 Marimayam", Episode 929 | 15 Feb 2026  
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtvmyplex/640/360/182747/1920x1080_Ep928Marimayam_182747_5c86062a-a296-4c56-ade0-33f89769c1ba.png" group-title="😆 Marimayam", Episode 928 | 15 Feb 2026  
 https://manoramavod.akamaized.net/vod/cdecae01-7977-4270-a1b5-a076f563e006/182747/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mmtvmyplex/640/360/182737/1920x1080_Ep927Marimayam_182737_35426c3d-86df-4583-a42c-e3121097a099.png" group-title="😆 Marimayam", Episode 927 | 14 Feb 2026  
 https://manoramavod.akamaized.net/vod/abce7af4-f91b-418b-a6f6-60a87e3cc7e9/182737/master.m3u8
