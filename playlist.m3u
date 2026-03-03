@@ -358,10 +358,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Star Movies Select HD
-http://87.255.35.150:18548/
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/DZqtdTy0/star_movies_select_hd.jpg" group-title="English Movies",Star Movies Select HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="zee cafe" tvg-logo="https://i.postimg.cc/nhVs3H8Q/z_cafe.jpg" group-title="English Movies",Zee Cafe
+http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
@@ -373,7 +379,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="Korean Movies & Series" tvg-logo="https://i.imgur.com/WQQQIRY.png" group-title="English Movies",Korean Movies & Series
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
 #EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+http://tv.cloudcdn.me:80/live.ts?channelId=126717&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Movies Thriller HD" tvg-logo="https://i.postimg.cc/MH9C2Vpy/Movies-Thriller.jpg" group-title="English Movies",Movies Thriller HD
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="Movies Sphere HD" tvg-logo="https://i.postimg.cc/g0rQ8n4J/Movie-Sphere.jpg" group-title="English Movies",Movies Sphere HD
@@ -387,32 +393,30 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="My Time Movies 2HD" tvg-logo="https://i.postimg.cc/6qQMJPSQ/My-Time-Movie-Network.jpg" group-title="English Movies",My Time Movies 2HD
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Korean Movies HD" tvg-logo="https://i.postimg.cc/TPsR88hk/korean-movies.jpg" group-title="English Movies",Korean Movies HD
-https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Paramount Movies HD" tvg-logo="https://i.postimg.cc/bY3mqzqN/Paramount-Movie.jpg" group-title="English Movies",Paramount Movies HD
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
-http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156004&extension=ts&play_token=g5BMLkcqpm
+http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:02:23:00
+
 
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC 1
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/MGtLCzLR/bmc-1.jpg" group-title="Arabic",MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://i.postimg.cc/MGtLCzLR/bmc-1.jpg" group-title="Arabic",MBC 2
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://i.postimg.cc/k4Jyd8SX/mbc-3.webp" group-title="Arabic",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC 4" tvg-logo="https://i.postimg.cc/SKpBCZBT/mbc-4.webp" group-title="Arabic",MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="Movies Action" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Arabic",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Arabic",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="Al Saudiya" tvg-logo="https://i.postimg.cc/0Qb5BkfX/al-saudiya-tv.jpg" group-title="Arabic",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae"tvg-logo="https://i.postimg.cc/7PgPQZrh/Dubai-One-HD.png" group-title="Arabic",Dubai One HD
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.postimg.cc/W3qmPJ6Q/dubai-tv.png" group-title="Arabic",Dubai TV
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="Arabic",Al Jazeera News
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 
@@ -420,39 +424,39 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
-http://thksmom.shop/BC_182/mpegts?token=6c7f7abf10f0f7046cd7878fce94afb6
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
-http://thksmom.shop/BC_130/index.m3u8?token=9055634f288fecd04f5aee366d9de6df
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
-http://thksmom.shop/BC_134/index.m3u8?token=189d72a9d2e51825d9875c174191f712
+http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
-http://thksmom.shop/BC_132/index.m3u8?token=8d1376fbc0f3846c6190f3c0a9d4e5f7
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi",Bollywood Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi",9X jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/728d342b-ce37-4b9c-bb5f-4903060aa1c8/2.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi",9xm
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/HD720/HD720.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi",B4U_Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi",Balle Balle tv
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi",PTC music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
 #EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.postimg.cc/sxJ1ZX5H/DD-National.png" group-title="Hindi",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="E24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi",E24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1024k.m3u8
+#EXTINF:-1 tvg-id="E 24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi",E 24
+http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Zoom
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/cc090eaf-52cc-41a0-b8e5-4cf3b6ef8980/0.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/HkFMhwzk/Colors-Cineplex-Black.png" group-title="Hindi",Colors Cineplex
-http://iptvplatinum.net:80/play/live.php?mac=00:1B:79:38:2A:1E&stream=156003&extension=ts&play_token=g5BMLkcqpm
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:02:23:00
 
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
