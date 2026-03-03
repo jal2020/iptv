@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz","https://iptv-org.github.io/epg/guides/en/dishtv.in.xml","https://iptv-org.github.io/epg/guides/en/elcinema.com.xml","https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml","https://iptv-org.github.io/epg/guides/en/plex.tv.xml","https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml","https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml","https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml","https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz","https://avkb.short.gy/epg.xml.gz","https://fhux.short.gy/epg.xml.gz","https://iptv-org.github.io/epg/guides/en/dishtv.in.xml","https://iptv-org.github.io/epg/guides/en/elcinema.com.xml","https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml","https://iptv-org.github.io/epg/guides/en/plex.tv.xml","https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml","https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml","https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml","https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 1
@@ -94,7 +94,8 @@ http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/CMbr9wxh/Teak-Vision.png" group-title="Malayalam Local TV",Teak Vision Nilambur
 https://hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="BIGTV 24x7" tvg-logo="https://i.postimg.cc/J03pvDMm/bigtv24x7.jpg" group-title="Malayalam News",BIGTV 24x7
+https://live20.bozztv.com/akamaissh101/ssh101/bigtv24x7/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
@@ -109,8 +110,6 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="Media One" tvg-logo="https://i.imgur.com/Jmdo2L6.jpeg" group-title="Malayalam News",Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
-#EXTINF:-1 tvg-id="BIGTV 24x7" tvg-logo="https://i.postimg.cc/J03pvDMm/bigtv24x7.jpg" group-title="Malayalam News",BIGTV 24x7
-https://live20.bozztv.com/akamaissh101/ssh101/bigtv24x7/playlist.m3u8
 #EXTINF:-1 tvg-id="News 18 Kerala" tvg-logo="https://i.imgur.com/HIFufHH.jpeg" group-title="Malayalam News",News 18 Kerala 
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News18_Kerala_NW18_MOB-audio_98834_eng=98800-video=1272000.m3u8
 #EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.imgur.com/SjOjdmM.jpeg" group-title="Malayalam News",Kairali News
