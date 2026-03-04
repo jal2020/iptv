@@ -100,7 +100,7 @@ http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 https://hd.singamcloud.in/teakvision/teakvision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BIGTV 24x7" tvg-logo="https://i.postimg.cc/J03pvDMm/bigtv24x7.jpg" group-title="Malayalam News",BIGTV 24x7
-https://live20.bozztv.com/akamaissh101/ssh101/bigtv24x7/playlist.m3u8
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.imgur.com/SkmfyBN.jpeg" group-title="Malayalam News",Reporter TV
