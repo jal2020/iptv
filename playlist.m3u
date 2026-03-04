@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 1
-http://thksmom.shop/mallatest24/7/index.m3u8?token=6bbaf856e44877f1918729a76bfb3fa2
+https://live20.bozztv.com/giatvplayout7/giatv-208188/playlist.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
 http://thksmom.shop/old24/7/index.m3u8?token=4d696543d067400fff442a834ca5f79f
 #EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
@@ -143,17 +143,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:02
 http://111.88.78.21:8000/play/a0y0/index.m3u8
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/Wzh4n9Dr/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
 http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam",Kochu TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
-http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:02:23:00
-
-#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:02:23:00
-#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
-http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=13298&deviceMac=00:1A:79:02:23:00
 
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam",Asianet HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:02:23:00
@@ -163,6 +152,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:02
 http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
 http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:02:23:00
+
+#EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
+http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=13298&deviceMac=00:1A:79:02:23:00
 
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:02:23:00
@@ -192,11 +188,14 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam",Darshana TV
 https://mumt04.tangotv.in/DARSHANATV/index.m3u8
-
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43475&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam",Jaihind TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam",Kochu TV
+http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
+http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:02:23:00
 
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
