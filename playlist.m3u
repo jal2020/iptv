@@ -321,43 +321,45 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
-https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="BBC News HD" tvg-logo="https://i.imgur.com/JzSl1sK.jpeg" group-title="English News",BBC News HD
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.postimg.cc/HWfYF3XB/cnn.png" group-title="English News",CNN HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6538/index.m3u8
 #EXTINF:-1 tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="English News",Sky News HD
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-https://edge2-moblive.yuppcdn.net/drm/smil:timesnowdrm.smil/manifest.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="Wion" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",Wion
-https://d7x8z4yuq42qn.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjUxNzExODR9.h581GUBQDLh5GP9v9sVvxRJFQi3UUOpITOy93q1WQ1s
+http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-884117/main.m3u8?hdnts=st=1765167906~exp=1765171506~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-884117/*!yuppTVCom_5_-1_c2764ae62d61447c_AE_86.98.68.179/payload/yuppTVCom_5_-1_c2764ae62d61447c_AE_86.98.68.179/*~hmac=4ae32272c0cc4d7e8eaba34d87c13a42e20be2c86beb3f4681458a6fd5abe40d&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=4922&ads.channel_name=RepublicTV&ads.network_name=yupptv&ads.user=0
 
-
-
-#EXTINF:-1 tvg-id="history HD" tvg-logo="https://i.postimg.cc/DZHK99b5/TravelXP.jpg" group-title="Documentary",Sky History FHD
-http://thksmom.shop/UK_history_FHD/mpegts?token=0e6cb6d85c6b2a492e32a57b9ee634bf
-#EXTINF:-1 tvg-id="National Geographic  Abu Dhabi" tvg-logo="https://i.postimg.cc/j5N2Skrs/National-Geographic-Abu-Dhabi.webp" group-title="Documentary",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
+http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
+http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://i.postimg.cc/j5N2Skrs/National-Geographic-Abu-Dhabi.webp" group-title="Documentary",National Geographic Abu Dhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
-http://thksmom.shop/NAT_GEO_UK/mpegts?token=c513e99d4042655964e13ae998838eb9
+http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travel XP
+http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
-http://thksmom.shop/DISCOVERY_HISTO_UK/mpegts?token=e5bf65c7a32693a57bda002eaded09e2
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Xplore HD" tvg-logo="https://i.imgur.com/hS5ex1q.png" group-title="Documentary",Xplore HD
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="4K travel" tvg-logo="https://i.imgur.com/Qtgiu0b.png" group-title="Documentary",4K travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83817&ads.show_id=3193&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4K%20TRAVEL%20TV&ads.episodetitle=4K%20TRAVEL%20TV&ads.keywords=Travel&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 tvg-id="BBC Travel- 1HD" tvg-logo="https://i.postimg.cc/NFC6wjqy/bbc-travel.png" group-title="Documentary",BBC Travel- 1HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1
 #EXTINF:-1 tvg-id="BBC Travel- 2HD" tvg-logo="https://i.postimg.cc/NFC6wjqy/bbc-travel.png" group-title="Documentary",BBC Travel- 2HD
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
-
 
 
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
@@ -433,6 +435,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:02:2
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="&explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",&explor HD
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
@@ -503,7 +507,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:02
 #EXTINF:-1 tvg-id="Chutti TV" tvg-logo="https://i.postimg.cc/3wgRtSKy/Sun_chutti_tv.png" group-title="Kids",Chutti TV
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
-http://161.248.38.40:8000/play/a06q/index.m3u8
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6503/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/fbgS6mwb/cartoon_network.png" group-title="Kids",Cartoon Network HD 
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6508/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
 http://161.248.38.40:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
