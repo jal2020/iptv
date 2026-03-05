@@ -43,7 +43,7 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sd
 #EXTINF:-1 tvg-id="Vibgyor TV" tvg-logo="https://yt3.googleusercontent.com/MXwTjAfrO0S1PVz_zfGVbIhxn4_Ti5T1afornA3mqPfZ80Jm2zVO1TaByrGkD5p21RhaEKKC=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam Local TV",Vibgyor TV
 https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Kerala vision" tvg-logo="https://i.postimg.cc/zD9f81VR/kerala-vision.jpg" group-title="Malayalam Local TV",Kerala Vision
-https://yuppparoriglin.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st=1772602129~exp=1772605729~acl=!*/181224/smil:keralavision.smil/*!yuppTVCom_5_25275309_42cc3bb546ab47d9_AE_86.98.149.63~data=yuppTVCom_5_25275309_42cc3bb546ab47d9_AE_86.98.149.63~hmac=a23af5b0a2bf808886fbf20ce40bf9623972dfdf47294666f6a793f255325d72&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=MAL&ads.content_genre=ENT&ads.channel=1859&ads.channel_name=KeralaVision&ads.network_name=yupptv&ads.user=0
+https://mumt03.tangotv.in/KERALAVISION/index.m3u8
 #EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam Local TV",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Malabar Channel" tvg-logo="https://i.postimg.cc/Y2X9sYTX/malabar-news.jpg" group-title="Malayalam Local TV",Malabar Channel
@@ -169,16 +169,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:02
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam",Kairali TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam",Kairali Arabia
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
 http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
-
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Victers TV
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="Garshom TV" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam",Garshom TV
