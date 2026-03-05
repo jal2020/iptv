@@ -330,7 +330,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.postimg.cc/bNbWQL59/geo_sports.jpg" group-title="Sports",Geo Sports
 
 
-
 #EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
@@ -400,6 +399,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=13298&deviceMac=00:1A:79:02:2
 http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:02:23:00
+#EXTINF:-1 tvg-id="MNX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX
+http://116.90.120.128:8000/play/a0i6/index.m3u88
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="zee cafe" tvg-logo="https://i.postimg.cc/nhVs3H8Q/z_cafe.jpg" group-title="English Movies",Zee Cafe
