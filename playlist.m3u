@@ -225,8 +225,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=13298&deviceMac=00:1A:79:02
 http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="Sports",Fox Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=13298&deviceMac=00:1A:79:02:23:00
+
+#EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 1
+http://pha.tv:8080/live/nadimxbot/k987001/4ce29cef-478b-462f-a006-7134d61667b1.m3u
+#EXTINF:-1 tvg-id="Starzplay Sports 2" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 2
+http://pha.tv:8080/live/nadimxbot/k987001/180e8782-74db-4cb8-b3f8-21076ccbc40b.m3u
+#EXTINF:-1 tvg-id="Starzplay Sports 3" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 3
+http://pha.tv:8080/live/nadimxbot/k987001/b4b0ea0f-5aed-40b9-9df4-d2e54c624112.m3u
 #EXTINF:-1 tvg-id="Starzplay Cricket" tvg-logo="https://i.postimg.cc/RZzjvqkd/starzplay_cricket.jpg" group-title="Sports",Starzplay Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=13298&deviceMac=00:1A:79:02:23:00
+
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=128710&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
