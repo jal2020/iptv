@@ -437,6 +437,58 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:0
 http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:02:23:00
 
 
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere info
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351440.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 1
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351441.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 2
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351442.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 3
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351443.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 4
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351444.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 5
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351445.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 6
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351446.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 7
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351447.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 8
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351448.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 9
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351449.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 10
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351450.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 11
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351451.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 12
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351452.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Premiere 13
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351453.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series info
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351454.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 1
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351455.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 2
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351456.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 3
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351457.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 4
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351458.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 5
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351459.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 6
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351460.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 7
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351461.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 8
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351462.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 9
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351463.ts
+#EXTINF:-1 tvg-logo="https://www.stc.com.sa/content/dam/stc/netflix%20logo.png" group-title="Netflix",Netflix Series 10
+http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351464.ts
+
+
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Arabic",MBC 1
