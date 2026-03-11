@@ -155,7 +155,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam",Asianet movies
-http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:02:23:00
+http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
 http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:02:23:00
 
