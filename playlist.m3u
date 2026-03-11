@@ -141,7 +141,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:02
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/DZ5W5JBc/Surya_Movies.png" group-title="Malayalam",Surya Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:02:23:00
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/rpNzFRXs/Surya_Music.png" group-title="Malayalam",Surya Music
-http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=13298&deviceMac=00:1A:79:02:23:00
+http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/DZ5W5JBc/Surya_Movies.png" group-title="Malayalam",Surya Movies
 http://111.88.78.21:8000/play/a0y0/index.m3u8
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/Wzh4n9Dr/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
