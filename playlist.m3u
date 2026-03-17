@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="Mediavision TV" tvg-logo="https://i.imgur.com/YPXs2Hh.png" group-title="Malayalam Local TV",Mediavision TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Mediavision Movies 1
-http://tv.cloudcdn.me:80/live.ts?channelId=126723&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=126723&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
 'http://thksmom.shop/old24/7/index.m3u8?token=4d696543d067400fff442a834ca5f79f'
 #EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
@@ -136,46 +136,44 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
 
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/50mzGkNT/Surya_TVHD.png" group-title="Malayalam",Surya TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/SKC1XqDX/SuryaTV.png" group-title="Malayalam",Surya TV
-http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8
+
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/DZ5W5JBc/Surya_Movies.png" group-title="Malayalam",Surya Movies
-http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/rpNzFRXs/Surya_Music.png" group-title="Malayalam",Surya Music
-http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8
-#EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/DZ5W5JBc/Surya_Movies.png" group-title="Malayalam",Surya Movies
-http://111.88.78.21:8000/play/a0y0/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/Wzh4n9Dr/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
-http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam",Asianet HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam",Asianet
 http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
 #EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/16BSw85.jpeg" group-title="Malayalam",Asianet movies
 http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
-http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
-http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.imgur.com/5eyI5Zm.jpeg" group-title="Malayalam",Kairali TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.imgur.com/mVRKwAj.png" group-title="Malayalam",Kairali Arabia
 https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="Kairali WE" tvg-logo="https://i.imgur.com/Qd7MCFM.jpeg" group-title="Malayalam",Kairali WE
-http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
@@ -193,42 +191,42 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 #EXTINF:-1 tvg-id="Darshana TV" tvg-logo="https://i.imgur.com/z6lkYE8.jpeg" group-title="Malayalam",Darshana TV
 https://mumt04.tangotv.in/DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43475&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43475&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam",Jaihind TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Malayalam",Kochu TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
-http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://pha.tv:8080/live/nadimxbot/k987001/549f4878-c6eb-43d9-bdfc-f8ca659ef805.m3u
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 Hindi HD
-http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Tamil HD
-http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu HD" tvg-logo="https://i.imgur.com/SiXTPfT.jpeg" group-title="Sports",Star Sports 1 Telugu HD
-http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 2 Hindi HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 2 Hindi HD
-http://tv.cloudcdn.me:80/live.ts?channelId=132883&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=132883&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Khel" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports Khel
-http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="Sports",Star Sports Select 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="Sports",Fox Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 1
 http://pha.tv:8080/live/nadimxbot/k987001/4ce29cef-478b-462f-a006-7134d61667b1.m3u
@@ -237,43 +235,43 @@ http://pha.tv:8080/live/nadimxbot/k987001/180e8782-74db-4cb8-b3f8-21076ccbc40b.m
 #EXTINF:-1 tvg-id="Starzplay Sports 3" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 3
 http://pha.tv:8080/live/nadimxbot/k987001/b4b0ea0f-5aed-40b9-9df4-d2e54c624112.m3u
 #EXTINF:-1 tvg-id="Starzplay Cricket" tvg-logo="https://i.postimg.cc/RZzjvqkd/starzplay_cricket.jpg" group-title="Sports",Starzplay Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=128710&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=128710&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://i.postimg.cc/k56hrfbc/willow-cricket.jpg" group-title="Sports",Willow Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 1" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 1
-http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 2" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 2
-http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 3" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 4" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 4
-http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 5" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 5
-http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
-http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Ten Sports HD" tvg-logo="https://i.imgur.com/i1KseGo.png" group-title="Sports",Ten Sports HD
-http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Ten 1 HD
 http://103.121.6.5:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://i.imgur.com/kYdG0xm.jpeg" group-title="Sports",Sony Ten 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 2 HD" tvg-logo="https://i.imgur.com/lZ1l0k0.jpeg" group-title="Sports",Sony Ten 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 3 Hindi" tvg-logo="https://i.imgur.com/MXwkKBn.jpeg" group-title="Sports",Sony Ten 3 Hindi
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 4 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 4 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony ten 5 HD" tvg-logo="https://i.imgur.com/fYoa25V.jpeg" group-title="Sports",Sony Ten 5 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Eurospot HD" tvg-logo="https://i.postimg.cc/MG5smh9G/Eurospots.jpg" group-title="Sports",Eurospot HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
@@ -295,7 +293,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-logo="https://i.postimg.cc/bJVx79t0/Dubai-Sports.jpg" group-title="Sports" ,Dubai Sports 3
 
 #EXTINF:-1 tvg-id="DD Sports HD" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports HD
-http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="DD Sports" tvg-logo="https://i.postimg.cc/3rp3fd4P/DD.png" group-title="Sports",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
@@ -336,9 +334,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=15186&deviceMac=00:1A:79:0B
 #EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Makkah TV" tvg-logo="https://i.imgur.com/Rjiput7.jpeg" group-title="Religious",Makkah TV
-http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Madeena TV" tvg-logo="https://i.imgur.com/PUxXHYd.png" group-title="Religious",Madeena TV
-http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="MTA 7 Aasia" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Religious",MTA 7 Aasia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Divine TV USA" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="Religious",Divine TV USA
@@ -365,28 +363,28 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="Wion" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",Wion
-http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
 https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-884117/main.m3u8?hdnts=st=1765167906~exp=1765171506~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-884117/*!yuppTVCom_5_-1_c2764ae62d61447c_AE_86.98.68.179/payload/yuppTVCom_5_-1_c2764ae62d61447c_AE_86.98.68.179/*~hmac=4ae32272c0cc4d7e8eaba34d87c13a42e20be2c86beb3f4681458a6fd5abe40d&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=4922&ads.channel_name=RepublicTV&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
-http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
-http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://i.postimg.cc/j5N2Skrs/National-Geographic-Abu-Dhabi.webp" group-title="Documentary",National Geographic Abu Dhabi
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
-http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travel XP
-http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
-http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Xplore HD" tvg-logo="https://i.imgur.com/hS5ex1q.png" group-title="Documentary",Xplore HD
 #EXTINF:-1 tvg-id="4K travel" tvg-logo="https://i.imgur.com/Qtgiu0b.png" group-title="Documentary",4K travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83817&ads.show_id=3193&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=4K%20TRAVEL%20TV&ads.episodetitle=4K%20TRAVEL%20TV&ads.keywords=Travel&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
@@ -399,15 +397,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
 http://103.113.103.202:8001/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/DZqtdTy0/star_movies_select_hd.jpg" group-title="English Movies",Star Movies Select HD
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="MNX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX
 http://116.90.120.128:8000/play/a0i6/index.m3u88
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="zee cafe" tvg-logo="https://i.postimg.cc/nhVs3H8Q/z_cafe.jpg" group-title="English Movies",Zee Cafe
-http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="Hallmark Movies HD" tvg-logo="https://i.imgur.com/Rwv0Lf5.png" group-title="English Movies",Hallmark Movies HD
@@ -419,7 +417,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="Korean Movies & Series" tvg-logo="https://i.imgur.com/WQQQIRY.png" group-title="English Movies",Korean Movies & Series
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
 #EXTINF:-1 tvg-id="Electric NOW" tvg-logo="https://i.imgur.com/W8vQDbk.png" group-title="English Movies",Electric NOW
-http://tv.cloudcdn.me:80/live.ts?channelId=126717&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=126717&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Movies Thriller HD" tvg-logo="https://i.postimg.cc/MH9C2Vpy/Movies-Thriller.jpg" group-title="English Movies",Movies Thriller HD
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-id="Movies Sphere HD" tvg-logo="https://i.postimg.cc/g0rQ8n4J/Movie-Sphere.jpg" group-title="English Movies",Movies Sphere HD
@@ -435,9 +433,9 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Korean Movies HD" tvg-logo="https://i.postimg.cc/TPsR88hk/korean-movies.jpg" group-title="English Movies",Korean Movies HD
 
 #EXTINF:-1 tvg-id="Paramount Movies HD" tvg-logo="https://i.postimg.cc/bY3mqzqN/Paramount-Movie.jpg" group-title="English Movies",Paramount Movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere info
@@ -596,29 +594,29 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
-http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="&explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",&explor HD
-http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
-http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
-http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi",Bollywood Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi",9X jalwa
-http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi",9xm
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi",B4U Music
-http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi",B4U_Kadak
-http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi",Balle Balle tv
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi",PTC music
@@ -626,37 +624,37 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 #EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.postimg.cc/sxJ1ZX5H/DD-National.png" group-title="Hindi",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="E 24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi",E 24
-http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Zoom
-http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/HkFMhwzk/Colors-Cineplex-Black.png" group-title="Hindi",Colors Cineplex
-http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
-http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
-http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/tTTxFXz8/colors-tamil-hd.jpg" group-title="Tamil",Colors Tamil HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/brx8V1BF/Zee-Tamil.jpg" group-title="Tamil",Zee Tamil
-http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
-http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/Vk9NHqJQ/siripoli.png" group-title="Tamil",Siripoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
-http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Imai TV" tvg-logo="https://i.postimg.cc/q7YWsYpk/Imaitv.jpg" group-title="Tamil",Imai TV
  https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
@@ -669,11 +667,11 @@ https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/
 
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.imgur.com/y8WHjL9.jpeg" group-title="Kids",Kochu TV
-http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sonic Malayalam" tvg-logo="https://i.postimg.cc/HszvGdkN/sonic_malayalam.png" group-title="Kids",Sonic Malayalam
-http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Chutti TV" tvg-logo="https://i.postimg.cc/3wgRtSKy/Sun_chutti_tv.png" group-title="Kids",Chutti TV
-http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:02:23:00
+http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6503/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/fbgS6mwb/cartoon_network.png" group-title="Kids",Cartoon Network HD 
