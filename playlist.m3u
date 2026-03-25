@@ -406,6 +406,8 @@ http://103.113.103.202:8001/play/a02j/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO
+http://190.108.89.228:8000/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-id="MNX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX
 http://116.90.120.128:8000/play/a0i6/index.m3u88
 #EXTINF:-1 tvg-id="Sony Movies" tvg-logo="https://i.postimg.cc/2884RJYW/sony-movies.png" group-title="English Movies",Sony Movies
