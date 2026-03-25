@@ -137,7 +137,7 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV
+#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Malayalam",Surya TV
 
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=13298&deviceMac=00:1A:79:31:34:0E
