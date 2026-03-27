@@ -472,57 +472,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:3
 http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere info
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351440.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 1
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351441.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 2
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351442.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 3
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351443.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 4
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351444.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 5
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351445.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 6
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351446.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 7
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351447.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 8
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351448.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 9
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351449.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 10
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351450.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 11
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351451.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 12
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351452.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Premiere 13
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351453.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series info
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351454.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 1
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351455.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 2
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351456.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 3
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351457.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 4
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351458.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 5
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351459.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 6
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351460.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 7
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351461.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 8
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351462.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 9
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351463.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjRLGTM9/Netflix_4K.jpg" group-title="Netflix",Netflix Series 10
-http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1351464.ts
-
+#
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/Alfa_AlSafwa.png" group-title="Arabic",Alfa Al Safwa
 http://185.191.127.129/live/rKYrXPa9/gUXQuqc/1565813.ts
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/Logo_EVDTV/OSN/Alfa_Cinema_1.png" group-title="Arabic",Alfa Cinema 1
