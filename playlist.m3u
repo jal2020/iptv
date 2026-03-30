@@ -164,6 +164,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
 http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.postimg.cc/B6PPk7kT/Amrita_TV.jpg" group-title="Malayalam",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/rmVchFfQ/Flowers-TV-usa.jpg" group-title="Malayalam",Flowers TV usa
