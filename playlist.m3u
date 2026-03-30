@@ -152,6 +152,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam",Asianet
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies
 http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/mgTMkw14/Asianet_Movies.jpg" group-title="Malayalam",Asianet movies
+http://premimum.online:80/live/Jen12345/Jen54321/9031.ts
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
 http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam",Asianet  Middle East
@@ -211,7 +213,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/239.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 2 Tamil HD
 http://premimum.online:80/live/Jen12345/Jen54321/379753.ts
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star 4K
-http://premimum.online:80/live/Jen12345/Jen54321/333368.ts
+http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/iv1tSyr.jpeg" group-title="IPL 2026",Star Sports Select 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/238.ts
 #EXTINF:-1 tvg-id="SuperSports" tvg-logo="https://i.postimg.cc/CLGBV5T3/supersports.jpg" group-title="IPL 2026",SuperSports
@@ -343,7 +345,7 @@ https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
-http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=15186&deviceMac=00:1A:79:0B:4A:10
+http://premimum.online:80/live/Jen12345/Jen54321/703302.ts
 #EXTINF:-1 tvg-id="geo sports" tvg-logo="https://i.postimg.cc/bNbWQL59/geo_sports.jpg" group-title="Sports",Geo Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="a sports" tvg-logo="https://i.postimg.cc/rsmkZhT6/a_sports.png" group-title="Sports",A Sports
