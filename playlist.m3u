@@ -204,17 +204,21 @@ http://premimum.online:80/live/Jen12345/Jen54321/37450.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="IPL Malayalam 4K" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL Malayalam 4K
-https://premimum.online:80/live/jen12345/jen54321/705156.ts
-#EXTINF:-1 tvg-id="IPL Malayalam FHD" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL Malayalam HD
-https://premimum.online:80/live/jen12345/jen54321/705135.ts
+http://premimum.online:80/live/jen12345/jen54321/705156.ts
+#EXTINF:-1 tvg-id="IPL Malayalam HD match-1" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL Malayalam HD match-1
+http://premimum.online:80/live/jen12345/jen54321/705135.ts
+#EXTINF:-1 tvg-id="IPL Malayalam HD match-2" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL Malayalam HD match-2
+http://premimum.online:80/live/Jen12345/Jen54321/705140.ts
 #EXTINF:-1 tvg-id="IPL English 4K" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL English HD
-https://premimum.online:80/live/jen12345/jen54321/705132.ts
+http://premimum.online:80/live/jen12345/jen54321/705132.ts
+#EXTINF:-1 tvg-id="IPL Tamil HD" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",IPL Tamil HD 
+http://premimum.online:80/live/Jen12345/Jen54321/705134.ts
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 1 HD
-http://premimum.online:80/live/Jen12345/Jen54321/148.ts
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 1 HD
+http://premimum.online:80/live/Jen12345/Jen54321/702533.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 1 Hindi HD
 http://premimum.online:80/live/Jen12345/Jen54321/211.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="IPL 2026",Star Sports 1 Tamil HD
@@ -223,6 +227,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/9722.ts
 http://premimum.online:80/live/Jen12345/Jen54321/177843.ts
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="IPL 2026",Sky Sports Cricket
 http://premimum.online:80/live/Jen12345/Jen54321/12.ts
+#EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="IPL 2026",Fox Cricket
+http://premimum.online:80/live/Jen12345/Jen54321/1856.ts
 #EXTINF:-1 tvg-id="SuperSports" tvg-logo="https://i.postimg.cc/CLGBV5T3/supersports.jpg" group-title="IPL 2026",SuperSports
 http://premimum.online:80/live/Jen12345/Jen54321/186605.ts
 #EXTINF:-1 tvg-id="cricbuzz" tvg-logo="https://i.postimg.cc/fRKhZnRC/ezgif-340bad0a76a88112.png" group-title="IPL 2026",Cricbuzz
@@ -233,8 +239,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/23943.ts
 http://premimum.online:80/live/Jen12345/Jen54321/5040.ts
 #EXTINF:-1 tvg-id="Hub Sports 4" tvg-logo="https://i.postimg.cc/x8dGVygH/Hub_Sports_4.webp" group-title="IPL 2026",Hub Sports 4
 http://premimum.online:80/live/Jen12345/Jen54321/196347.ts
-#EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="IPL 2026",Starzplay Sports 1
-http://premimum.online:80/live/Jen12345/Jen54321/122979.ts
+#EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="IPL 2026",Starzplay Sports 
+http://premimum.online:80/live/Jen12345/Jen54321/703301.ts
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/yGJbibX.jpeg" group-title="Sports",Star Sports 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:31:34:0E
