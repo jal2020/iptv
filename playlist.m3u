@@ -617,6 +617,8 @@ https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id
 https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41a2-bf51-92296c743ede/HLS/stream_07/index.m3u8
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
+#EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com 1
+https://t.freetv.fun/live/astro-premier-league-z.ts
 
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/g2gQZrvC/Ep940.jpg" group-title="😆 Marimayam", Episode 940 | 29 Mar 2026
