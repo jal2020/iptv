@@ -143,7 +143,7 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Malayalam",Surya TV
-http://premimum.online:80/live/Jen12345/Jen54321/23309.ts
+http://premimum.online:80/live/Jen12345/Jen54321/98888.ts
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
 http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
@@ -151,23 +151,24 @@ http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
 http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.imgur.com/RotsgI9.jpeg" group-title="Malayalam",Asianet HD
-http://premimum.online:80/live/Jen12345/Jen54321/23307.ts
+http://premimum.online:80/live/Jen12345/Jen54321/98891.ts
 #EXTINF:-1 tvg-id="Asianet" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam",Asianet
-http://premimum.online:80/live/Jen12345/Jen54321/23307.ts
-#EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies
+http://103.157.248.140:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="Asianet movies HD" tvg-logo="https://i.imgur.com/MwT9X9J.jpeg" group-title="Malayalam",Asianet movies HD
 http://premimum.online:80/live/Jen12345/Jen54321/177842.ts
 #EXTINF:-1 tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/mgTMkw14/Asianet_Movies.jpg" group-title="Malayalam",Asianet movies
 http://premimum.online:80/live/Jen12345/Jen54321/9031.ts
 #EXTINF:-1 tvg-id="Asianet Plus" tvg-logo="https://i.imgur.com/QaUxc2P.jpeg" group-title="Malayalam",Asianet Plus
 http://premimum.online:80/live/Jen12345/Jen54321/9027.ts
 #EXTINF:-1 tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/Qdj4DcX9/asianet-middle-east.jpg" group-title="Malayalam",Asianet  Middle East
+https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/85926.ts
 #EXTINF:-1 tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam",Mazhavil Manorama HD
-http://premimum.online:80/live/Jen12345/Jen54321/23311.ts
+https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/GtQ9hC2J/mazhavil_manorama.jpg" group-title="Malayalam",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Keralam HD" tvg-logo="https://i.imgur.com/l4q2EZ8.jpeg" group-title="Malayalam",Zee Keralam HD
-http://premimum.online:80/live/Jen12345/Jen54321/10094.ts
+http://premimum.online:80/live/Jen12345/Jen54321/4226.ts
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.postimg.cc/B6PPk7kT/Amrita_TV.jpg" group-title="Malayalam",Amrita TV
 http://premimum.online:80/live/Jen12345/Jen54321/9028.ts
 #EXTINF:-1 tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/Twg6cqxT/flowers.jpg" group-title="Malayalam",Flowers TV
@@ -182,6 +183,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/85928.ts
 http://premimum.online:80/live/Jen12345/Jen54321/150128.ts
 #EXTINF:-1 tvg-id="Kappa TV" tvg-logo="https://i.imgur.com/El5Xw0n.jpeg" group-title="Malayalam",Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 tvg-id="Raj Musix malayalam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/raj-music-malayalam-black.png" group-title="Malayalam",Raj Musix malayalam
+http://premimum.online:80/live/Jen12345/Jen54321/245.ts
 #EXTINF:-1 tvg-id="Safari TV" tvg-logo="https://i.imgur.com/fksOSum.png" group-title="Malayalam",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Victers TV" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Victers TV
