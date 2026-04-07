@@ -110,7 +110,7 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 tvg-id="24 News" tvg-logo="https://i.postimg.cc/Dzyq2QRP/TWENTY-FOUR-NEWS.png" group-title="Malayalam News",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Malayalam News",News Malayalam 24x7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8?ads.vf=-yNYTSQyYSy
+https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 #EXTINF:-1 tvg-id="Manorama News" tvg-logo="https://i.imgur.com/n9ABnlu.jpeg" group-title="Malayalam News",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News" tvg-logo="https://i.imgur.com/ANh7Zpg.jpeg" group-title="Malayalam News",Mathrubhumi News
@@ -628,6 +628,8 @@ https://cdn-viewlift-east-poc-01.vos360.video/Content/LiveEvent/3af5485e-b5a6-41
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
 #EXTINF:-1 tvg-id="Super League Kerala" tvg-logo="https://i.postimg.cc/Y9dNmrcB/sport-com1.png" group-title="Test", Sports.com 1
 https://t.freetv.fun/live/astro-premier-league-z.ts
+https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
+https://cdn-7.pishow.tv/live/1129/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/g2gQZrvC/Ep940.jpg" group-title="😆 Marimayam", Episode 940 | 29 Mar 2026
