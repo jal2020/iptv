@@ -10,7 +10,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/135566.ts
 #EXTINF:-1 tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
 http://premimum.online:80/live/Jen12345/Jen54321/135533.ts
-#EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/Zqtwmttq/kannur-vision.jpg" group-title="Malayalam Local TV",Kannur Vision
+#EXTINF:-1 tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/8zR0fcYN/kannur_vision.png" group-title="Malayalam Local TV",Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Network payyanur" tvg-logo="https://i.postimg.cc/kgTv7ykz/Network_Payyanur.jpg" group-title="Malayalam Local TV",Network Payyanur
 https://live.skystream.in/live/networkpayyanur/index.m3u8
@@ -38,7 +38,7 @@ https://live.skystream.in/live/kasaragodvsn/index.m3u8
 https://live.skystream.in/live/kcnksrgod/index.m3u8
 #EXTINF:-1 tvg-id="Malabar Channel" tvg-logo="https://i.postimg.cc/Y2X9sYTX/malabar-news.jpg" group-title="Malayalam Local TV",Malabar Channel
 http://cloud.logichost.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Malabar Plus" tvg-logo="https://i.postimg.cc/BbyJQc04/malabar-plus.webp" group-title="Malayalam Local TV",Malabar Plus
+#EXTINF:-1 tvg-id="Malabar Plus" tvg-logo="https://i.postimg.cc/0QkRyD2R/malabar_plus.jpg" group-title="Malayalam Local TV",Malabar Plus
 http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Citi Channel" tvg-logo="https://i.postimg.cc/KvNdNDVz/citi-channel.jpg" group-title="Malayalam Local TV",Citi Channel
 http://cloud.logichost.in:1935/live/citi/playlist.m3u8
@@ -72,7 +72,7 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="GTV max" tvg-logo="https://i.postimg.cc/fL9fLRv3/gtvmax.jpg" group-title="Malayalam Local TV",GTV max
 https://play.applelive.in/gtvmax/gtvmax.m3u8
-#EXTINF:-1 tvg-id="CCV" tvg-logo="https://i.postimg.cc/fbFXqQRj/CCV.webp" group-title="Malayalam Local TV",CCV
+#EXTINF:-1 tvg-id="CCV Chelakkara" tvg-logo="https://i.postimg.cc/pLs1J4PJ/ccv_chelakkara.jpg" group-title="Malayalam Local TV",CCV Chelakkara
 https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w856096035.m3u8
 #EXTINF:-1 tvg-id="N Media" tvg-logo="https://i.postimg.cc/pT07zZh8/N-Media.png" group-title="Malayalam Local TV",N Media
 https://live.skystream.in/live/newmedia2924/index.m3u8
@@ -100,13 +100,14 @@ https://live.skystream.in/live/ctv1805/index.m3u8
 https://live.skystream.in/live/vartha2132/index.m3u8
 #EXTINF:-1 tvg-id="KVTV Music" tvg-logo="https://i.imgur.com/qai4Wea.jpeg" group-title="Malayalam Local TV",KVTV Music
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
-'
 #EXTINF:-1 tvg-id="VBC News" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="Malayalam Local TV",VBC News
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
-#EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD
-https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Eagle One" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="Malayalam Local TV",Eagle One
 https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+
+# not working
+#EXTINF:-1 tvg-id="KCL HD" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam Local TV",KCL HD 
+https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="Nattuvartha TV" tvg-logo="https://i.postimg.cc/43Sn0vVS/Nattuvartha-TV.png" group-title="Malayalam Local TV",Nattuvartha TV
 https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
 #EXTINF:-1 tvg-id="Venad News" tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="Malayalam Local TV",Venad News
