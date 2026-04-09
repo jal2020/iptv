@@ -164,7 +164,7 @@ https://cdn-6.pishow.tv/live/14/master.m3u8
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="NEET Crash course" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Crash_Course_NEET_TV_black.png" group-title="Education",NEET Crash course
 
-#EXTINF:-1 tvg-id="NTV" tvg-logo="https://i.postimg.cc/tCDvvB75/ntv-uae.jpg" group-title="Malayalam Local TV",NTV UAE
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://i.postimg.cc/tCDvvB75/ntv-uae.jpg" group-title="Malayalam Web TV",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Vibgyor TV" tvg-logo="https://i.postimg.cc/6qJH03x8/Vibgyor_TV.jpg" group-title="Malayalam Web TV",Vibgyor TV
 https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
