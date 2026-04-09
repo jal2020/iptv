@@ -70,7 +70,9 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Malayalam Local TV",VCV
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV max" tvg-logo="https://i.postimg.cc/fL9fLRv3/gtvmax.jpg" group-title="Malayalam Local TV",GTV max
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://i.postimg.cc/k5tzMwdy/gtv.png" group-title="Malayalam Local TV",GTV
+https://play.applelive.in/gtv/gtv.m3u8
+#EXTINF:-1 tvg-id="GTV max" tvg-logo="https://i.postimg.cc/CLQcZD73/gtvmax.png" group-title="Malayalam Local TV",GTV max
 https://play.applelive.in/gtvmax/gtvmax.m3u8
 #EXTINF:-1 tvg-id="CCV Chelakkara" tvg-logo="https://i.postimg.cc/pLs1J4PJ/ccv_chelakkara.jpg" group-title="Malayalam Local TV",CCV Chelakkara
 https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w856096035.m3u8
