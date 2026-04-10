@@ -127,8 +127,7 @@ https://ipcloud.live/nvision/nvisionhd/index.m3u8
 #EXTINF:-1 tvg-id="N vision Music" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision music
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 '
-#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News HD
-https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
@@ -158,6 +157,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Malayalam News",Real Kerala News
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam News",Jaihind TV
+http://premimum.online:80/live/Jen12345/Jen54321/169798.ts
 #EXTINF:-1 tvg-id="Janam TV " tvg-logo="https://i.imgur.com/rSu5A45.jpeg" group-title="Malayalam News",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Raj News Malayalam" tvg-logo="https://i.imgur.com/jdGExit.jpeg" group-title="Malayalam News",Raj News Malayalam
@@ -243,8 +244,6 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.imgur.com/hIYO27z.jpeg" group-title="Malayalam",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Jaihind TV" tvg-logo="https://i.imgur.com/MVFwLw8.jpeg" group-title="Malayalam",Jaihind TV
-http://premimum.online:80/live/Jen12345/Jen54321/169798.ts
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.imgur.com/0mPBi6Y.jpeg" group-title="Malayalam",Jeevan TV
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/85920.ts
@@ -680,6 +679,8 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6658/index.m3u8
 https://t.freetv.fun/live/astro-premier-league-z.ts
 https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News HD
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/g2gQZrvC/Ep940.jpg" group-title="😆 Marimayam", Episode 940 | 29 Mar 2026
