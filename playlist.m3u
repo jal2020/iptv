@@ -80,6 +80,8 @@ https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w856096035.m3u8
 https://live.skystream.in/live/newmedia2924/index.m3u8
 #EXTINF:-1 tvg-id="Starnet" tvg-logo="https://i.postimg.cc/vmPXZk7r/Starnet.png" group-title="Malayalam Local TV",Starnet
 https://play.applelive.in/starnettv/starnettv.m3u8
+#EXTINF:-1 tvg-id="NV TV" tvg-logo="https://i.postimg.cc/mhxmG9YX/NV-TV.png" group-title="Malayalam Local TV",NV TV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-id="Drisya TV" tvg-logo="https://i.postimg.cc/TPQ6Thxr/drisya-news-pala.jpg" group-title="Malayalam Local TV",Drisya TV
 https://play.applelive.in/starnettv/starnettv.m3u8
 #EXTINF:-1 tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
@@ -120,14 +122,11 @@ http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
 https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV Cinema" tvg-logo="https://i.postimg.cc/B6vZJjcc/CCTV-Cinema.jpg" group-title="Malayalam Local TV",CCTV Cinema
 https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NV TV" tvg-logo="https://i.postimg.cc/mhxmG9YX/NV-TV.png" group-title="Malayalam Local TV",NV TV
-https://ipcloud.live/nvtv/livetvstream/index.m3u8
 #EXTINF:-1 tvg-id="N vision" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision HD
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
 #EXTINF:-1 tvg-id="N vision Music" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision music
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 '
-
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
