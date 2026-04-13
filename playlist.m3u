@@ -347,7 +347,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=13298&deviceMac=00:1A:79:31:3
 http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="TNT Sports 5" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",TNT Sports 5
 http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Now Sports Premier League 1" tvg-logo="https://i.postimg.cc/hPV6NRNw/TNT-sports-live.jpg" group-title="Sports",Now Sports Premier League 1
+#EXTINF:-1 tvg-id="Now Sports Premier League 1" tvg-logo="https://i.postimg.cc/brSvdXT1/now_sports_epl.png" group-title="Sports",Now Sports Premier League 1
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="FIFA +" tvg-logo="https://i.postimg.cc/8CkXGTpB/FIFA_tv.png" group-title="Sports",FIFA +
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
