@@ -148,7 +148,7 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News18_Kerala_NW18_MOB-audio_98834_eng=98800-video=1272000.m3u8
 #EXTINF:-1 tvg-id="Kairali News" tvg-logo="https://i.imgur.com/SjOjdmM.jpeg" group-title="Malayalam News",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/yx5mhXrP/Kerala_vision_News.jpg" group-title="Malayalam News",Kerala vision News
+#EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/Nfsx5B2M/KERALA_VISION_NEWS.jpg" group-title="Malayalam News",Kerala vision News
 http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
 #EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.imgur.com/HGqzaen.jpeg" group-title="Malayalam News",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
