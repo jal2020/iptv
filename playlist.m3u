@@ -315,16 +315,20 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=13298&deviceMac=00:1A:79:3
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
 
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://i.postimg.cc/ryBV7PRh/astro-cricket.webp" group-title="Sports",Astro Cricket
+http://premimum.online:80/live/Jen12345/Jen54321/518.ts
 #EXTINF:-1 tvg-id="SuperSports" tvg-logo="https://i.postimg.cc/CLGBV5T3/supersports.jpg" group-title="Sports",SuperSports
-http://tv.cloudcdn.me:80/live.ts?channelId=128710&uid=3510&deviceMac=00:1A:79:31:34:0E
+http://premimum.online:80/live/Jen12345/Jen54321/157939.ts
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="Sports",Fox Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Starzplay Sports 1" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 1
+http://premimum.online:80/live/Jen12345/Jen54321/605119.ts
 #EXTINF:-1 tvg-id="Starzplay Sports 2" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 2
+http://premimum.online:80/live/Jen12345/Jen54321/605123.ts
 #EXTINF:-1 tvg-id="Starzplay Sports 3" tvg-logo="https://i.postimg.cc/0Q5r4byC/starzplay_sports.jpg" group-title="Sports",Starzplay Sports 3
+http://premimum.online:80/live/Jen12345/Jen54321/605125.ts
 #EXTINF:-1 tvg-id="Starzplay Cricket" tvg-logo="https://i.postimg.cc/RZzjvqkd/starzplay_cricket.jpg" group-title="Sports",Starzplay Cricket
 
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="Sports",Sky Sports Cricket
@@ -391,23 +395,25 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59306&extension=ts&play_token=L7C0jYD3vr
+http://premimum.online:80/live/Jen12345/Jen54321/652310.ts
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",Bein Sports 2
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59307&extension=ts&play_token=CGOyX90IWu
+http://premimum.online:80/live/Jen12345/Jen54321/652311.ts
 #EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",Bein Sports 3
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59308&extension=ts&play_token=sB97Bfrhzv
+http://premimum.online:80/live/Jen12345/Jen54321/652312.ts
 #EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="Sports",Bein Sports 4
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59309&extension=ts&play_token=u2A8V4lLfA
+http://premimum.online:80/live/Jen12345/Jen54321/652313.ts
 #EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="https://i.imgur.com/2Rha5aY.png" group-title="Sports",Bein Sports 5
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59310&extension=ts&play_token=pSgl5G5NEA
+http://premimum.online:80/live/Jen12345/Jen54321/652314.ts
 #EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="https://i.imgur.com/0wBdLYb.png" group-title="Sports",Bein Sports 6
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59311&extension=ts&play_token=g7YjCwS5DH
+http://premimum.online:80/live/Jen12345/Jen54321/652315.ts
 #EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="https://i.imgur.com/iODFwZi.png" group-title="Sports",Bein Sports 7
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/59312&extension=ts&play_token=Vs6Pechow2
+http://premimum.online:80/live/Jen12345/Jen54321/652316.ts
 #EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="https://i.imgur.com/CaFEyVn.png" group-title="Sports",Bein Sports 8
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/192758&extension=ts&play_token=DmxqyZen5E
+http://premimum.online:80/live/Jen12345/Jen54321/652317.ts
 #EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",Bein Sports 9
-http://300300.org/play/live.php?mac=00:1A:79:D9:24:B9&stream=.org/ch/192757&extension=ts&play_token=NiHY3sDAN7
+http://premimum.online:80/live/Jen12345/Jen54321/652318.ts
+#EXTINF:-1 tvg-id="Bein Sports 2 English" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",Bein Sports 2 English
+http://premimum.online:80/live/Jen12345/Jen54321/652319.ts
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
 https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",Bein Sports 2
