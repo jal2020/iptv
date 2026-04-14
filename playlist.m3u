@@ -416,7 +416,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/652316.ts
 http://premimum.online:80/live/Jen12345/Jen54321/652317.ts
 #EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",Bein Sports 9
 http://premimum.online:80/live/Jen12345/Jen54321/652318.ts
-#EXTINF:-1 tvg-id="Bein Sports 2 English" tvg-logo="https://i.imgur.com/dMTBut1.png" group-title="Sports",Bein Sports 2 English
+#EXTINF:-1 tvg-id="Bein Sports 2 English" tvg-logo="https://i.imgur.com/dWNbCyx.png" group-title="Sports",Bein Sports 2 English
 http://premimum.online:80/live/Jen12345/Jen54321/652319.ts
 #EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",Bein Sports 1
 https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
@@ -433,6 +433,13 @@ http://premimum.online:80/live/Jen12345/Jen54321/703302.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="a sports" tvg-logo="https://i.postimg.cc/rsmkZhT6/a_sports.png" group-title="Sports",A Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="KTV Sport" tvg-logo="https://i.postimg.cc/LXLxGmR9/KTV_Sport.png" group-title="Sports",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTV Sport 2" tvg-logo="https://i.postimg.cc/ZnXXpwTf/KTV_Sport_2.png" group-title="Sports",KTV Sport 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Oman Sports TV" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
@@ -553,6 +560,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126756&uid=13298&deviceMac=00:1A:79:3
 #EXTINF:-1 tvg-id="Pluto Action Movies HD" tvg-logo="https://i.postimg.cc/656pFx0X/Pluto-TV-Action-Movies.jpg" group-title="English Movies",luto Action Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=126719&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-logo="https://i.imgur.com/8DAriPs.png" group-title="Arabic",Abu Dhabi TV
+http://premimum.online:80/live/Jen12345/Jen54321/319612.ts
+#EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://i.imgur.com/iSbZqn4.png" group-title="Arabic",Al Emarat TV
+http://premimum.online:80/live/Jen12345/Jen54321/319613.ts
+#EXTINF:-1 tvg-id="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="Arabic",Qatar Television
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="Arabic",Qatar Television 2
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman TV" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="Arabic",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera News" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="Arabic",Al Jazeera News
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher" tvg-logo="https://i.postimg.cc/dQ2pw5Sj/al_jazeera_mubasher.jpg" group-title="Arabic",Al Jazeera Mubasher
