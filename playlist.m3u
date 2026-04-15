@@ -456,7 +456,7 @@ https://vod1.jalatech.ps/abu_dhabisport1/index.m3u8?token=0db9279076983e99caf9c1
 https://vod1.jalatech.ps/abu_dhabisport2/index.m3u8?token=db80d073947c84073529ffe60b9c72c3
 #EXTINF:-1 tvg-id="Yas TV" tvg-logo="https://i.postimg.cc/MTr270D4/YAS.png" group-title="Sports",Yas TV HD
 https://vod1.jalatech.ps/yas_sport/index.m3u8?token=be2b5985819a26bef7ce8078175dad97
-#EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.postimg.cc/26CvhLfZ/Sharjah-Sports.jpg" group-title="Sports",Sharjah Sports
+#EXTINF:-1 tvg-id="Sharjah Sports" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Sports",Sharjah Sports
 http://premimum.online:80/live/Jen12345/Jen54321/309038.ts
 #EXTINF:-1 tvg-id="KSA Sports 1" tvg-logo="https://i.postimg.cc/0yBVWn34/KSA-Sports.png" group-title="Sports",KSA Sports 1
 http://premimum.online:80/live/Jen12345/Jen54321/4654.ts
