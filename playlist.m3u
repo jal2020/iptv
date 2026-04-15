@@ -315,6 +315,30 @@ http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:31:3
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/ldSVOiS.png" group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-logo="https://i.postimg.cc/qRKfkxmk/Sky-Sports-Action.png" group-title="Sports",Sky Sports Action
+http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sports",Sky Sports Arena
+http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/qv2CCPzf/Sky-Sports-Cricket.png" group-title="Sports",Sky Sports Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="https://i.postimg.cc/x1gNRK30/Sky-Sports-F1.png" group-title="Sports",Sky Sports F1
+http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-logo="https://i.postimg.cc/65W9hFjv/Sky-Sports-Football.png" group-title="Sports",Sky Sports Football
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-logo="https://i.postimg.cc/dVzPgfB3/Sky-Sports-Golf.png" group-title="Sports",Sky Sports Golf
+http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-logo="https://i.postimg.cc/76wckrTD/Sky-Sports-Main-Event.png" group-title="Sports",Sky Sports Main Event
+http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports Mix" tvg-logo="https://i.postimg.cc/bN7mPf78/Sky-Sports-Mix.png" group-title="Sports",Sky Sports Mix
+http://tv.cloudcdn.me:80/live.ts?channelId=32489&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sky Sports News" tvg-logo="https://i.postimg.cc/SQX5bdnt/Sky-Sports-News.png" group-title="Sports",Sky Sports News
+http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=3510&deviceMac=00:1A:79:31:34:0E
+
+#EXTINF:-1 tvg-id="Fancode" tvg-logo="https://i.postimg.cc/J4pB3NqR/fancode.webp" group-title="Sports",Fancode
+http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=3510&deviceMac=00:1A:79:31:34:0E
+
 #EXTINF:-1 tvg-id="supersport premier league" tvg-logo="https://i.postimg.cc/zvXn8xWx/supersport_premier_league.png" group-title="Sports",supersport premier league
 http://premimum.online:80/live/Jen12345/Jen54321/518.ts
 #EXTINF:-1 tvg-id="Now Sports Premier League 1" tvg-logo="https://i.postimg.cc/brSvdXT1/now_sports_epl.png" group-title="Sports",Now Sports Premier League 1
@@ -323,6 +347,10 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/9891.ts
 #EXTINF:-1 tvg-id="Sky Sports Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football
 http://premimum.online:80/live/Jen12345/Jen54321/19.ts
+#EXTINF:-1 tvg-id="premier sports" tvg-logo="https://i.postimg.cc/PfFffSfQ/premier-sports.jpg" group-title="Sports",Premier Sports 1
+http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="premier sports" tvg-logo="https://i.postimg.cc/PfFffSfQ/premier-sports.jpg" group-title="Sports",Premier Sports 2
+http://tv.cloudcdn.me:80/live.ts?channelId=91159&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="FIFA +" tvg-logo="https://i.postimg.cc/8CkXGTpB/FIFA_tv.png" group-title="Sports",FIFA +
 https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
 
@@ -662,6 +690,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/Vk9NHqJQ/siripoli.png" group-title="Tamil",Siripoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="MK Six" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
 http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Imai TV" tvg-logo="https://i.postimg.cc/q7YWsYpk/Imaitv.jpg" group-title="Tamil",Imai TV
