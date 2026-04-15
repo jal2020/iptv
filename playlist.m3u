@@ -482,7 +482,7 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Oman Sports TV" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OBahrain Sports" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Bahrain Sports
+#EXTINF:-1 tvg-id="OBahrain Sports" tvg-logo="https://i.postimg.cc/tJqjt6BN/bahrain-sports.png" group-title="Sports",Bahrain Sports
 http://premimum.online:80/live/Jen12345/Jen54321/30105.ts
 
 #EXTINF:-1 tvg-id="Sharjah Quran TV" tvg-logo="https://i.postimg.cc/CMHNbRFH/sharjah_quran_tv.webp" group-title="Religious",Sharjah Quran TV
