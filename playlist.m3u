@@ -247,7 +247,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/85920.ts
 http://premimum.online:80/live/Jen12345/Jen54321/85924.ts
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Malayalam",Kochu TV
-http://premimum.online:80/live/Jen12345/Jen54321/37450.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=3510&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
 http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
