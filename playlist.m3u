@@ -298,6 +298,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Hindi HD
 http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Hindi
+http://103.157.248.140:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Telugu HD
@@ -654,7 +656,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:31:3
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
-http://103.99.249.139/stargold/index.m3u8
+http://103.157.248.140:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="&explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",&explor HD
@@ -699,19 +701,21 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/tTTxFXz8/colors-tamil-hd.jpg" group-title="Tamil",Colors Tamil HD
+#EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/brx8V1BF/Zee-Tamil.jpg" group-title="Tamil",Zee Tamil
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/gJjSjpdx/Zee-Thirai-HD.jpg" group-title="Tamil",Zee Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/7hbpF7bV/zee-tamil.png" group-title="Tamil",Zee Tamil
+http://103.157.248.140:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/SK7Wn4G1/isaiaruvi.jpg" group-title="Tamil",Isaiaruvi
+#EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/Vk9NHqJQ/siripoli.png" group-title="Tamil",Siripoli
+#EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/MZ7w80Pw/Siripoli.png" group-title="Tamil",Siripoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="MK Six" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/RV48bCWG/MK-Tunes.png" group-title="Tamil",MK tunes
+#EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/13tfWRG2/MK-Tunes.png" group-title="Tamil",MK tunes
 http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Imai TV" tvg-logo="https://i.postimg.cc/q7YWsYpk/Imaitv.jpg" group-title="Tamil",Imai TV
  https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
@@ -763,8 +767,17 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="Test",News Malayalam 24x7 HD
 https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
+XXX Vhttp://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6201/index.m3u8
+http://103.157.248.140:8000/play/a00s/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/gcx6Lh38/Ep944.png" group-title="😆 Marimayam", Episode 943 | 12 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/1d1cdad6-8cb3-4919-be75-9d5b0b33d2d9/183940/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/jSg8cNkR/Ep943.png" group-title="😆 Marimayam", Episode 943 | 11 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/bbe3c204-1cc9-4e57-9f0e-d3b0285c92d8/183925/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/8k0qp2bC/Ep942.jpg" group-title="😆 Marimayam", Episode 942 | 05 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/aee7bd6c-4cd9-4c5c-bcae-fc1202f93182/183770/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/fyNSm2cx/Ep941.png" group-title="😆 Marimayam", Episode 941 | 04 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/14f480ab-44ec-4ad9-a6cb-89dbb054042b/183761/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/g2gQZrvC/Ep940.jpg" group-title="😆 Marimayam", Episode 940 | 29 Mar 2026
 https://mmtvvod-in.vgcdn.net/vod/56f018a6-385e-49c1-add7-75dd9ebe6804/183627/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/pLvRZ95Q/Ep939.png" group-title="😆 Marimayam", Episode 939 | 28 Mar 2026
