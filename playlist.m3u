@@ -252,15 +252,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31
 
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="IPL 2026",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
-#EXTINF:-1 tvg-id="IPL Malayalam HD match-1" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",Malayalam HD match-1
+#EXTINF:-1 tvg-id="IPL Malayalam HD match-1" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Malayalam HD match-1
 http://premimum.online:80/live/jen12345/jen54321/705135.ts
-#EXTINF:-1 tvg-id="IPL Malayalam HD match-2" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",Malayalam HD match-2
+#EXTINF:-1 tvg-id="IPL Malayalam HD match-2" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Malayalam HD match-2
 http://premimum.online:80/live/Jen12345/Jen54321/705140.ts
-#EXTINF:-1 tvg-id="IPL Malayalam 4K" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",Malayalam 4K
+#EXTINF:-1 tvg-id="IPL Malayalam 4K" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Malayalam 4K
 http://premimum.online:80/live/jen12345/jen54321/705156.ts
-#EXTINF:-1 tvg-id="IPL English 4K" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",English HD
+#EXTINF:-1 tvg-id="IPL English 4K" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",English HD
 http://premimum.online:80/live/jen12345/jen54321/705132.ts
-#EXTINF:-1 tvg-id="IPL Tamil HD" tvg-logo="https://i.postimg.cc/t4QWz5z1/IPL2026.jpg" group-title="IPL 2026",Tamil HD 
+#EXTINF:-1 tvg-id="IPL Tamil HD" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Tamil HD 
 http://premimum.online:80/live/Jen12345/Jen54321/705134.ts
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
