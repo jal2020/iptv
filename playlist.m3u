@@ -187,9 +187,8 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="India Life" tvg-logo="https://i.imgur.com/Jg0FehL.jpeg" group-title="Malayalam Web TV",India Life
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Malayalam",Surya TV
+
+#EXTINF:-1 tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Malayalam",Surya TV HD
 http://premimum.online:80/live/Jen12345/Jen54321/98888.ts
 #EXTINF:-1 tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
 http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
@@ -771,6 +770,8 @@ https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca14
 https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 XXX Vhttp://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6201/index.m3u8
 http://103.157.248.140:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Test",Surya TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/gcx6Lh38/Ep944.png" group-title="😆 Marimayam", Episode 943 | 12 Apr 2026
 https://mmtvvod-in.vgcdn.net/vod/1d1cdad6-8cb3-4919-be75-9d5b0b33d2d9/183940/master.m3u8
