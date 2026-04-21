@@ -737,7 +737,6 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Village Cooking Channel" tvg-logo="https://i.postimg.cc/ZnDP4v2h/village-cooking-channel.jpg" group-title="Tamil",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://i.postimg.cc/sxsJFFPK/Gemini-TV-HD.png" group-title="Tamil",Gemini TV
-https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
 
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Kids",Kochu TV
@@ -746,23 +745,37 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Chutti TV" tvg-logo="https://i.postimg.cc/3wgRtSKy/Sun_chutti_tv.png" group-title="Kids",Chutti TV
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="Pogo TV" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Pogo TV
+http://premimum.online:80/live/Jen12345/Jen54321/66165.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gcV1sDcc/disney-hd.png" group-title="Kids",Disney Channel
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6503/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/fbgS6mwb/cartoon_network.png" group-title="Kids",Cartoon Network HD 
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6508/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gJ2XbJ6S/Disney_Channel.jpg" group-title="Kids",Disney Channel
-http://161.248.38.40:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="Disney International" tvg-logo="https://i.postimg.cc/508ppqk5/disney-international.png" group-title="Kids",Disney International
+http://premimum.online:80/live/Jen12345/Jen54321/20925.ts
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://i.postimg.cc/YSzh3vzS/Disney-Jr.webp" group-title="Kids",Disney Jr
+http://premimum.online:80/live/Jen12345/Jen54321/35713.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/hjZNW00W/cartoon-network.png" group-title="Kids",Cartoon Network
+http://premimum.online:80/live/Jen12345/Jen54321/148211.ts
+#EXTINF:-1 tvg-id="Sky Kids" tvg-logo="https://i.postimg.cc/kMzXWNPN/Sky-Kids.png" group-title="Kids",Sky Kids
+http://premimum.online:80/live/Jen12345/Jen54321/148222.ts
+#EXTINF:-1 tvg-id="Sky Animation" tvg-logo="https://i.postimg.cc/cLLSjTYL/sky-cinema-animation.png" group-title="Kids",Sky Animation
+http://premimum.online:80/live/Jen12345/Jen54321/34171.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.postimg.cc/MTv0FkK2/nickelodeon.png" group-title="Kids",Nickelodeon
+http://premimum.online:80/live/Jen12345/Jen54321/269.ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://i.postimg.cc/5tzkkFPz/Nick-JR.png" group-title="Kids",Nick JR
+http://premimum.online:80/live/Jen12345/Jen54321/561.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://i.postimg.cc/k4QM9G5x/Boomerang.png" group-title="Kids",Boomerang
+http://premimum.online:80/live/Jen12345/Jen54321/1067.ts
+#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://i.postimg.cc/7hJVbFpB/ezgif-cbeebies.png" group-title="Kids",Cbeebies
+http://premimum.online:80/live/Jen12345/Jen54321/26.ts
+#EXTINF:-1 tvg-id="Mr-Bean" tvg-logo="https://i.postimg.cc/wTfmnfZY/Mr-Bean.png" group-title="Kids",Mr Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Spider Man" tvg-logo="https://i.postimg.cc/MKvTfWPL/Spider-man.png" group-title="Kids",Spider Man
+http://premimum.online:80/live/Jen12345/Jen54321/147720.ts
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
+http://premimum.online:80/live/Jen12345/Jen54321/1653.ts
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.postimg.cc/W3zRY4Jf/Baby-Shark.webp" group-title="Kids",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kids Car movies" tvg-logo="https://i.imgur.com/EHKD6lc.gif" group-title="Kids",Kids Car movies
-http://thksmom.shop/carsVOD24/7/index.m3u8?token=3feeefef25dc962d2db508b2cf23f81f
-#EXTINF:-1 tvg-id="Majid TV" tvg-logo="https://i.postimg.cc/gJtpXcts/majid_TV.jpg" group-title="Kids",Majid TV
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="Chu Chu TV" tvg-logo="https://i.imgur.com/ygOwv3E.jpeg" group-title="Kids",Chu Chu TV
-#EXTINF:-1 tvg-id="Dora TV" tvg-logo="https://i.postimg.cc/6p6yvqYH/dora_buji.jpg" group-title="Kids",Dora TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
-#EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://i.postimg.cc/k4Jyd8SX/mbc-3.webp" group-title="Kids",MBC 3
 
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.ytimg.com/vi/LllBuuPd3pk/hqdefault.jpg" group-title="Test",Mazhavil Manorama
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
