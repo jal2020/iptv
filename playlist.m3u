@@ -747,6 +747,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Pogo TV" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Pogo TV
 http://premimum.online:80/live/Jen12345/Jen54321/66165.ts
+#EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.postimg.cc/gcV1sDcc/disney-hd.png" group-title="Kids",Disney Channel
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6503/index.m3u8
 #EXTINF:-1 tvg-id="Disney International" tvg-logo="https://i.postimg.cc/508ppqk5/disney-international.png" group-title="Kids",Disney International
@@ -775,7 +777,8 @@ http://premimum.online:80/live/Jen12345/Jen54321/147720.ts
 http://premimum.online:80/live/Jen12345/Jen54321/1653.ts
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.postimg.cc/W3zRY4Jf/Baby-Shark.webp" group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Fezin TV" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Fezin TV
+https://live20.bozztv.com/akamaissh101/ssh101/fzntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.ytimg.com/vi/LllBuuPd3pk/hqdefault.jpg" group-title="Test",Mazhavil Manorama
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
