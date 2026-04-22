@@ -662,6 +662,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Arabic",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1 tvg-id="Sony MAX HD" tvg-logo="https://i.postimg.cc/XYzmNZxc/Sony-MAX-HD.png" group-title="Hindi",Sony MAX HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6704/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
@@ -676,6 +678,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:31:3
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi",Colors Cineplex
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" group-title="Hindi",MTV
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi",Bollywood Music
@@ -722,6 +728,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:31
 http://103.157.248.140:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0e88a23840b94cbafb65c43ee1241418.png" group-title="Tamil",Raj Digital Plus
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6701/index.m3u8
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="7 music" tvg-logo="https://i.postimg.cc/c15Bph19/7-music-tamil.png" group-title="Tamil",7 Music
@@ -740,6 +748,8 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://i.postimg.cc/sxsJFFPK/Gemini-TV-HD.png" group-title="Tamil",Gemini TV
 
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="" group-title="Test",Abc
 
 #EXTINF:-1 tvg-id="Kochu TV" tvg-logo="https://i.postimg.cc/FzLYhW24/sun_kochu_tv.png" group-title="Kids",Kochu TV
 http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=13298&deviceMac=00:1A:79:31:34:0E
@@ -777,6 +787,8 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 http://premimum.online:80/live/Jen12345/Jen54321/147720.ts
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
 http://premimum.online:80/live/Jen12345/Jen54321/1653.ts
+#EXTINF:-1 tvg-id="Sony yay" tvg-logo="https://i.postimg.cc/wvCFnLq7/sony-yay.png" group-title="Kids",Sony yay
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6627/index.m3u8
 #EXTINF:-1 tvg-id="Baby Shark TV" tvg-logo="https://i.postimg.cc/W3zRY4Jf/Baby-Shark.webp" group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Fezin TV" tvg-logo="https://i.postimg.cc/05LCB75t/Fezin-TV.png" group-title="Kids",Fezin TV
