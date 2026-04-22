@@ -749,7 +749,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=13298&deviceMac=00:1A:79:31
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Pogo TV" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Pogo TV
 http://premimum.online:80/live/Jen12345/Jen54321/66165.ts
-#EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.postimg.cc/HxnLHBXR/Pogo.webp" group-title="Kids",Tom & Jerry
+#EXTINF:-1 tvg-id="Tom & Jerry" tvg-logo="https://i.postimg.cc/wTfmnfZY/Mr-Bean.png" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.postimg.cc/gcV1sDcc/disney-hd.png" group-title="Kids",Disney XD 
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6503/index.m3u8
