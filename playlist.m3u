@@ -222,6 +222,7 @@ http://103.154.3.101:5001/live/634.m3u8
 #EXTINF:-1 tvg-id="Flowers TV usa" tvg-logo="https://i.postimg.cc/7LWbqwX2/Flowers-USA.png" group-title="Malayalam",Flowers TV usa
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="Kairali TV" tvg-logo="https://i.postimg.cc/1zpYQ39m/kairali-tv.png" group-title="Malayalam",Kairali TV
+http://premimum.online:80/live/Jen12345/Jen54321/9026.ts
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="Kairali Arabia" tvg-logo="https://i.postimg.cc/J0gQXf1b/kairali-arabia.png" group-title="Malayalam",Kairali Arabia
 http://premimum.online:80/live/Jen12345/Jen54321/85928.ts
