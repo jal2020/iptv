@@ -626,7 +626,9 @@ http://premimum.online:80/live/Jen12345/Jen54321/319612.ts
 http://premimum.online:80/live/Jen12345/Jen54321/319613.ts
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://i.postimg.cc/KzQqBZZ5/sharjah-tv.png" group-title="Arabic",Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae"tvg-logo="https://i.postimg.cc/7PgPQZrh/Dubai-One-HD.png" group-title="Arabic",Dubai One HD
+#EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Arabic",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-id="Aflam"tvg-logo="https://i.postimg.cc/7PgPQZrh/Dubai-One-HD.png" group-title="Arabic",Dubai One HD
 http://premimum.online:80/live/Jen12345/Jen54321/319610.ts
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.postimg.cc/W3qmPJ6Q/dubai-tv.png" group-title="Arabic",Dubai TV
 http://premimum.online:80/live/Jen12345/Jen54321/319609.ts
