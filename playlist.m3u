@@ -803,7 +803,11 @@ http://103.157.248.140:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Surya TV HD" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun_Surya_TV.png" group-title="Test",Surya TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=13298&deviceMac=00:1A:79:31:34:0E
 
-#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/gcx6Lh38/Ep944.png" group-title="😆 Marimayam", Episode 943 | 12 Apr 2026
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/C1VNtZqd/Ep946.png" group-title="😆 Marimayam", Episode 946 | 19 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/ed131657-2aef-484f-b1dc-30c4a23a3a17/184078/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/NjzCNfDC/Ep945.png" group-title="😆 Marimayam", Episode 945 | 18 Apr 2026
+https://mmtvvod-in.vgcdn.net/vod/dc03bc6a-4000-46b7-b152-1a2b1d1fa4af/184070/master.m3u8
+#EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/gcx6Lh38/Ep944.png" group-title="😆 Marimayam", Episode 944 | 12 Apr 2026
 https://mmtvvod-in.vgcdn.net/vod/1d1cdad6-8cb3-4919-be75-9d5b0b33d2d9/183940/master.m3u8
 #EXTINF:-1 tvg-id="Marimayam" tvg-logo="https://i.postimg.cc/jSg8cNkR/Ep943.png" group-title="😆 Marimayam", Episode 943 | 11 Apr 2026
 https://mmtvvod-in.vgcdn.net/vod/bbe3c204-1cc9-4e57-9f0e-d3b0285c92d8/183925/master.m3u8
