@@ -171,7 +171,7 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://i.postimg.cc/Df984p2r/ntv-uae.png" group-title="Malayalam Web TV",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Vibgyor TV" tvg-logo="https://i.postimg.cc/6qJH03x8/Vibgyor_TV.jpg" group-title="Malayalam Web TV",Vibgyor TV
-https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+https://livestream.vibgyortv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Pulari TV" tvg-logo="https://i.postimg.cc/1t7bZSB8/pulari_tv.png" group-title="Malayalam Web TV",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 tvg-id="Anand TV" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam Web TV",Anand TV
