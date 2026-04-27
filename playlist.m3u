@@ -320,8 +320,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Star Sports Khel" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports Khel
 http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 1 HD
+http://103.157.248.140:8000/play/a00o/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 2 HD
+http://103.157.248.140:8000/play/a00p/index.m3u8
+http://103.157.248.140:8000/play/a00y/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=13298&deviceMac=00:1A:79:31:34:0E
 
 #EXTINF:-1 tvg-id="Sony ten 1 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%201%20HD.png" group-title="Sports",Sony Ten 1 HD
@@ -561,24 +564,25 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 #EXTINF:-1 tvg-id="abp news" tvg-logo="https://i.postimg.cc/jSgkt3cJ/abp-news.webp" group-title="English News",abp news 
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
-
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
-http://premimum.online:80/live/Jen12345/Jen54321/98873.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/GpZKGmtW/Discovery-Science.png" group-title="Documentary",Discovery Channel
+http://103.157.248.140:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Science 
 http://103.157.248.140:8000/play/a018/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98872.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/GpZKGmtW/Discovery-Science.png" group-title="Documentary",Discovery Channel
-http://103.157.248.140:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
-http://103.157.248.140:8000/play/a01b/index.m3u8
-http://premimum.online:80/live/Jen12345/Jen54321/190.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="hhttps://yt3.googleusercontent.com/A3IRtaRvhGAl44dtu9-Mp8T9oXiy68OGfkSCc9uf682m91SFePPH5JUzPZwhnkgFRX07ObAbgQ=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Discovery Turbo
+http://103.157.248.140:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
+http://premimum.online:80/live/Jen12345/Jen54321/98873.ts
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://103.157.248.140:8000/play/a012/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98874.ts
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
 http://103.157.248.140:8000/play/a010/index.m3u8 
 http://premimum.online:80/live/Jen12345/Jen54321/98875.ts
+#EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
+http://103.157.248.140:8000/play/a01b/index.m3u8
+http://premimum.online:80/live/Jen12345/Jen54321/190.ts
 #EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travel XP
 http://premimum.online:80/live/Jen12345/Jen54321/181.ts
 #EXTINF:-1 tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Documentary",History TV 18
@@ -591,9 +595,11 @@ http://premimum.online:80/live/Jen12345/Jen54321/98842.ts
 #EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/DZqtdTy0/star_movies_select_hd.jpg" group-title="English Movies",Star Movies Select HD
 http://103.157.248.140:8000/play/a01s/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98843.ts
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="English Movies",Movies Now HD
+http://103.157.248.140:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
-http://premimum.online:80/live/Jen12345/Jen54321/147.ts
 http://103.157.248.140:8000/play/a01r/index.m3u8
+http://premimum.online:80/live/Jen12345/Jen54321/147.ts
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO
 http://premimum.online:80/live/Jen12345/Jen54321/185.ts
 #EXTINF:-1 tvg-id="sky cinema action and adventure" tvg-logo="https://i.postimg.cc/W3dw2wSM/sky-cinema-action.jpg" group-title="English Movies",sky cinema action and adventure
@@ -711,6 +717,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 http://103.157.248.140:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/WzmZHMjR/Colors-Cineplex.png" group-title="Hindi",Colors Cineplex
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Colors bollywwod" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4f1a268a8486f5b2a71ad044d9750a67.png" group-title="Hindi",Cineplex bollywwod
+http://103.157.248.140:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Colors Superhits" tvg-logo="https://i.postimg.cc/QtGHZHf7/Colors-Superhits.png" group-title="Hindi",Cineplex Superhits
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" group-title="Hindi",MTV
