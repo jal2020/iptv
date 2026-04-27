@@ -837,7 +837,7 @@ https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Fezin TV" tvg-logo="https://i.postimg.cc/05LCB75t/Fezin-TV.png" group-title="Kids",Fezin TV
 https://live20.bozztv.com/akamaissh101/ssh101/fzntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.ytimg.com/vi/LllBuuPd3pk/hqdefault.jpg" group-title="t",Mazhavil Manorama
+#EXTINF:-1 tvg-id="Mazhavil Manorama" tvg-logo="https://i.ytimg.com/vi/LllBuuPd3pk/hqdefault.jpg" group-title="Test",Mazhavil Manorama
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6654/index.m3u8
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="Test 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/330px-SMPTE_Color_Bars.svg.png" group-title="Test",Test 1
