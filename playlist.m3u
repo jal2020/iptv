@@ -194,6 +194,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/9034.ts
 #EXTINF:-1 tvg-id="Surya Music" tvg-logo="https://i.postimg.cc/vTtd75nq/sun_surya_music.png" group-title="Malayalam",Surya Music
 http://premimum.online:80/live/jen12345/jen54321/9038.ts
 #EXTINF:-1 tvg-id="Surya Comedy" tvg-logo="https://i.postimg.cc/tgxwthQp/sun_surya_comedy.png" group-title="Malayalam",Surya Comedy
+http://line.nspivot.com:80/live/C01D92/60CA8D/172033.ts
 http://premimum.online:80/live/jen12345/jen54321/9033.ts
 #EXTINF:-1 tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
 http://premimum.online:80/live/Jen12345/Jen54321/98891.ts
@@ -251,6 +252,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=3510&deviceMac=00:1A:79:31:
 #EXTINF:-1 tvg-id="Nick malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/80f0eff6af7183a372a5ba4622e6cc95.png" group-title="Malayalam",Nick malayalam
 http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
+http://103.157.248.140:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="IPL 2026",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-id="IPL Malayalam HD match-1" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Malayalam HD match-1
@@ -265,16 +271,15 @@ http://premimum.online:80/live/jen12345/jen54321/705132.ts
 http://premimum.online:80/live/Jen12345/Jen54321/705134.ts
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 HD
-http://premimum.online:80/live/Jen12345/Jen54321/703297.ts
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/702533.ts
+
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Hindi HD
 http://premimum.online:80/live/Jen12345/Jen54321/211.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Tamil HD
 http://premimum.online:80/live/Jen12345/Jen54321/9722.ts
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 Telugu HD
 http://premimum.online:80/live/Jen12345/Jen54321/177843.ts
+#EXTINF:-1 tvg-id="SStar Sports 2 Hindi HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 Hindi HD
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-logo="https://i.imgur.com/K9Pofpv.png" group-title="IPL 2026",Sky Sports Cricket
 http://premimum.online:80/live/Jen12345/Jen54321/12.ts
 #EXTINF:-1 tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="IPL 2026",Fox Cricket
@@ -558,27 +563,36 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
 http://premimum.online:80/live/Jen12345/Jen54321/98873.ts
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
-http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Science 
 http://premimum.online:80/live/Jen12345/Jen54321/98872.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="sony bbc earth" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony bbc earth
+http://103.157.248.140:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/GpZKGmtW/Discovery-Science.png" group-title="Documentary",Discovery Channel
+http://103.157.248.140:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
+http://103.157.248.140:8000/play/a01b/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/190.ts
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://premimum.online:80/live/Jen12345/Jen54321/98874.ts
+http://103.157.248.140:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
 http://premimum.online:80/live/Jen12345/Jen54321/98875.ts
+http://103.157.248.140:8000/play/a010/index.m3u8 
 #EXTINF:-1 tvg-id="Travel XP" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travel XP
 http://premimum.online:80/live/Jen12345/Jen54321/181.ts
+#EXTINF:-1 tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Documentary",History TV 18
+http://103.157.248.140:8000/play/a01a/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/MT6pt5fc/2010-07-Star-Movies.jpg" group-title="English Movies",Star Movies HD
+http://103.157.248.140:8000/play/a01t/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98842.ts
 #EXTINF:-1 tvg-id="Star Movies Select HD" tvg-logo="https://i.postimg.cc/DZqtdTy0/star_movies_select_hd.jpg" group-title="English Movies",Star Movies Select HD
+http://103.157.248.140:8000/play/a01s/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98843.ts
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
 http://premimum.online:80/live/Jen12345/Jen54321/147.ts
+http://103.157.248.140:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/1tTbSfK5/hbo.jpg" group-title="English Movies",HBO
 http://premimum.online:80/live/Jen12345/Jen54321/185.ts
 #EXTINF:-1 tvg-id="sky cinema action and adventure" tvg-logo="https://i.postimg.cc/W3dw2wSM/sky-cinema-action.jpg" group-title="English Movies",sky cinema action and adventure
@@ -665,24 +679,36 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Arabic",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1 tvg-id="Star Plus" tvg-logo="https://i.postimg.cc/Kj7c2fRq/STAR-PLUS-HD.png" group-title="Hindi",Star Plus HD
+http://103.157.248.140:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
+http://103.157.248.140:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold Select HD" tvg-logo="https://i.postimg.cc/52JSxRTW/Star-Gold-Select-HD.png" group-title="Hindi",Star Gold Select HD
+http://103.157.248.140:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold Romance" tvg-logo="https://i.postimg.cc/XvkCsNYC/Star-Gold-Romance.png" group-title="Hindi",Star Gold Romance
+http://103.157.248.140:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="Sony TV" tvg-logo="https://i.postimg.cc/ZK9vGtcx/sony-tv-hd.png" group-title="Hindi",Sony TV HD
+http://103.157.248.140:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Sony MAX HD" tvg-logo="https://i.postimg.cc/XYzmNZxc/Sony-MAX-HD.png" group-title="Hindi",Sony MAX HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6704/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
 http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Star Gold" tvg-logo="https://i.postimg.cc/yxBTZnHH/Star-gold.jpg" group-title="Hindi",Star Gold
-http://103.157.248.140:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="&pictures HD" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",&pictures HD
+#EXTINF:-1 tvg-id="& pictures HD" tvg-logo="https://i.postimg.cc/50p2C6NZ/pic-hd.png" group-title="Hindi",& pictures HD
+http://103.157.248.140:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="& pictures" tvg-logo="https://i.postimg.cc/TPF2kH7r/pic.webp" group-title="Hindi",& pictures
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="&explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",&explor HD
+#EXTINF:-1 tvg-id="& explor HD" tvg-logo="https://i.postimg.cc/L6S1rjcQ/Xplore_HD.jpg" group-title="Hindi",& explor HD
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.postimg.cc/J7DybKwM/Bollywood-HD.jpg" group-title="Hindi",Bollywood HD
 http://tv.cloudcdn.me:80/live.ts?channelId=123916&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-logo="https://i.postimg.cc/GmwHZR0X/MBC-Bollywood-hd.webp" group-title="Hindi",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="Z Bollywood" tvg-logo="https://i.postimg.cc/vH7cbNsQ/Z-bollywood.jpg" group-title="Hindi",Z Bollywood
 #EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi",Colors Cineplex
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/HkFMhwzk/Colors-Cineplex-Black.png" group-title="Hindi",Colors Cineplex
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/B6PfxT7x/mtv.png" group-title="Hindi",MTV
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
@@ -707,8 +733,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Zoom
 http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/HkFMhwzk/Colors-Cineplex-Black.png" group-title="Hindi",Colors Cineplex
-http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:31:34:0E
+
 
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
