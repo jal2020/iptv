@@ -725,27 +725,30 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi",Bollywood Music
-https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi",9X jalwa
-http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi",9xm
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi",B4U Music
-http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi",B4U_Kadak
-http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi",Balle Balle tv
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi",PTC music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
 #EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.postimg.cc/sxJ1ZX5H/DD-National.png" group-title="Hindi",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="E 24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi",E 24
-http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi",Zoom
-http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:31:34:0E
 
+
+#EXTINF:-1 tvg-id="YRF Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Hindi Music",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi Music",Bollywood Music
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi Music",9X jalwa
+http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi Music",9xm
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi Music",B4U Music
+http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi Music",B4U_Kadak
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi Music",Balle Balle tv
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi Music",Zoom
+http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="E 24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi Music",E 24
+http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi Music",PTC music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
 
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
