@@ -577,9 +577,11 @@ http://premimum.online:80/live/Jen12345/Jen54321/98873.ts
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
 http://103.157.248.140:8000/play/a012/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/98874.ts
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="https://i.postimg.cc/tCNnXMpN/love-nature.png" group-title="Documentary",Nat Geo Wild
 http://103.157.248.140:8000/play/a010/index.m3u8 
 http://premimum.online:80/live/Jen12345/Jen54321/98875.ts
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Love Nature 
+https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
 http://103.157.248.140:8000/play/a01b/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/190.ts
