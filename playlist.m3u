@@ -267,7 +267,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=13298&deviceMac=00:1A:79:31
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://103.157.248.140:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 HD
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 2 Hindi HD
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="IPL 2026",Star 4K
 http://premimum.online:80/live/Jen12345/Jen54321/703299.ts
@@ -279,8 +279,13 @@ http://premimum.online:80/live/Jen12345/Jen54321/705140.ts
 http://premimum.online:80/live/jen12345/jen54321/705156.ts
 #EXTINF:-1 tvg-id="IPL English 4K" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",English HD
 http://premimum.online:80/live/jen12345/jen54321/705132.ts
+#EXTINF:-1 tvg-id="IPL Hindi HD" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Hindi HD
+http://premimum.online:80/live/Jen12345/Jen54321/705131.ts
 #EXTINF:-1 tvg-id="IPL Tamil HD" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Tamil HD 
 http://premimum.online:80/live/Jen12345/Jen54321/705134.ts
+#EXTINF:-1 tvg-id="IPL Kannada HD" tvg-logo="https://i.postimg.cc/RVhgsTyh/IPL.png" group-title="IPL 2026",Kannada HD 
+http://premimum.online:80/live/Jen12345/Jen54321/705147.ts
+
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="IPL 2026",Star Sports 1 HD
 http://premimum.online:80/live/Jen12345/Jen54321/98864.ts
 http://premimum.online:80/live/Jen12345/Jen54321/702533.ts
