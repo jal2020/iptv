@@ -721,6 +721,10 @@ http://103.157.248.140:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Sony MAX HD" tvg-logo="https://i.postimg.cc/XYzmNZxc/Sony-MAX-HD.png" group-title="Hindi",Sony MAX HD
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6704/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Sony MAX 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png?width=400" group-title="Hindi",Sony MAX 2
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6625/index.m3u8
+#EXTINF:-1 tvg-id="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png?width=400" group-title="Hindi",Sony SAB
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6571/index.m3u8
 #EXTINF:-1 tvg-id="Z Cinema HD" tvg-logo="https://i.postimg.cc/y6yHd4kr/Z-cinema.webp" group-title="Hindi",Z Cinema HD
 http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="& pictures HD" tvg-logo="https://i.postimg.cc/50p2C6NZ/pic-hd.png" group-title="Hindi",& pictures HD
@@ -739,6 +743,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 http://103.157.248.140:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Colors Cineplex" tvg-logo="https://i.postimg.cc/WzmZHMjR/Colors-Cineplex.png" group-title="Hindi",Colors Cineplex
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 #EXTINF:-1 tvg-id="Colors bollywwod" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4f1a268a8486f5b2a71ad044d9750a67.png" group-title="Hindi",Cineplex bollywwod
 http://103.157.248.140:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Colors Superhits" tvg-logo="https://i.postimg.cc/QtGHZHf7/Colors-Superhits.png" group-title="Hindi",Cineplex Superhits
@@ -747,72 +752,99 @@ http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6592/index.m3u8
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6582/index.m3u8
 #EXTINF:-1 tvg-id="B4U Movies" tvg-logo="https://i.postimg.cc/6QNsDcdj/b4u.jpg" group-title="Hindi",B4U Movies
 http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi Music",B4U_Kadak
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.postimg.cc/sxJ1ZX5H/DD-National.png" group-title="Hindi",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-
 
 #EXTINF:-1 tvg-id="YRF Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="Bollywood Music" tvg-logo="https://i.postimg.cc/L5BX3cky/bollywood-music.jpg" group-title="Hindi Music",Bollywood Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="9X jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi Music",9X jalwa
-http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://i.postimg.cc/rpGBnd8V/9xm.jpg" group-title="Hindi Music",9xm
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="9X Jalwa" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi Music",9X Jalwa
+http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="9X Tashan" tvg-logo="https://i.postimg.cc/qvwc10Pf/9x-jalwa.jpg" group-title="Hindi Music",9X Tashan
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6672/index.m3u8
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-id="B4U Music" tvg-logo="https://i.postimg.cc/tgPxLjfC/B4-U-Music.png" group-title="Hindi Music",B4U Music
 http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="B4U_Kadak" tvg-logo="https://i.postimg.cc/hv6XvZQt/B4-U-Kadak.webp" group-title="Hindi Music",B4U_Kadak
-http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Desi Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5b9d4a8f89cbc49f9b1340eba3e3d032.png" group-title="Hindi Music",Desi Channel
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6681/index.m3u8
 #EXTINF:-1 tvg-id="Balle Balle tv" tvg-logo="https://i.postimg.cc/FHXmTXjx/balleballetv.jpg" group-title="Hindi Music",Balle Balle tv
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="https://i.postimg.cc/Jnx84MHj/Zoom.png" group-title="Hindi Music",Zoom
 http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="E 24" tvg-logo="https://i.postimg.cc/TPWwJQrD/E24-TV-Channel.jpg" group-title="Hindi Music",E 24
+#EXTINF:-1 tvg-id="E 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png?width=400" group-title="Hindi Music",E 24
 http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="PTC music" tvg-logo="https://i.postimg.cc/ZRLnPK92/PTC-music.jpg" group-title="Hindi Music",PTC music
+#EXTINF:-1 tvg-id="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5b3d87a168699ad7bb6ac6b304f3de4d.png" group-title="Hindi Music",Music India
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/index.m3u8?sessionid=yupptvott_5_-1_8469c582-22ad-b1f6-cbca-be87e9170ff4_AE_86.98.149.63_dishtv_1_channel_41_-1&token=st=1777552875~exp=1777639275~hmac=29adb65323a42aedda2124663226d1ee56ec815d5d3aa9beaeb53bb5551600e8
+#EXTINF:-1 tvg-id="PTC music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png?width=400" group-title="Hindi Music",PTC music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index_3.m3u8
-
+#EXTINF:-1 tvg-id="Public Music" tvg-logo="hhttps://jiotvimages.cdn.jio.com/dare_images/images/channel/a81e4e69d4bfedb502653dffe0ad80e6.png" group-title="Hindi Music",Public Music
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6651/index.m3u8
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-id="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Hindi Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-id="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/93926d5dd30455efa55a1c0a3bb797e9.png" group-title="Hindi Music",Shemaroo Filmi Gaane 
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png?width=400" group-title="Hindi Music",Punjabi Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PTC Punjabi Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png?width=400" group-title="Hindi Music",PTC Punjabi Gold
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6686/index.m3u8
 
 #EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6692/index.m3u8
+#EXTINF:-1 tvg-id="Sun TV hd" tvg-logo="https://i.postimg.cc/1t5RR9QZ/Sun_TVHD.png" group-title="Tamil",Sun TV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
-http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun Life" tvg-logo="https://i.postimg.cc/xTrCMVGb/Sun_Life.png" group-title="Tamil",Sun Life
 http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Sun News" tvg-logo="https://i.postimg.cc/qMXkKhvg/Sun_News.png" group-title="Tamil",Sun News
 http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6693/index.m3u8
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/gJjSjpdx/Zee-Thirai-HD.jpg" group-title="Tamil",Zee Tamil HD
+#EXTINF:-1 tvg-id="Zee Thirai" tvg-logo="https://i.postimg.cc/gJjSjpdx/Zee-Thirai-HD.jpg" group-title="Tamil",Zee Thirai HD
 http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-logo="https://i.postimg.cc/7hbpF7bV/zee-tamil.png" group-title="Tamil",Zee Tamil
 http://103.157.248.140:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Jaya TV" tvg-logo="https://i.postimg.cc/W4hW1TTF/JAYA-TV.png" group-title="Tamil",Jaya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=13298&deviceMac=00:1A:79:31:34:0E
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6696/index.m3u8
+#EXTINF:-1 tvg-id="Raj TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png?width=400" group-title="Tamil",Raj TV
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6699/index.m3u8
 #EXTINF:-1 tvg-id="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0e88a23840b94cbafb65c43ee1241418.png" group-title="Tamil",Raj Digital Plus
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6701/index.m3u8
+
+#EXTINF:-1 tvg-id="Sun music hd" tvg-logo="https://i.postimg.cc/tCPsM4RB/Sun_Music_HD.png" group-title="Tamil",Sun music HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="Isaiaruvi" tvg-logo="https://i.postimg.cc/bNnzdcN0/Isaiaruvi.png" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2160e45255960cfbacc217bfe5ec63d4.png" group-title="Tamil",Jaya Max
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6698/index.m3u8
 #EXTINF:-1 tvg-id="7 music" tvg-logo="https://i.postimg.cc/c15Bph19/7-music-tamil.png" group-title="Tamil",7 Music
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/MZ7w80Pw/Siripoli.png" group-title="Tamil",Siripoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="MK Six" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-id="MK tunes" tvg-logo="https://i.postimg.cc/13tfWRG2/MK-Tunes.png" group-title="Tamil",MK tunes
 http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=13298&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="Siripoli" tvg-logo="https://i.postimg.cc/MZ7w80Pw/Siripoli.png" group-title="Tamil",Siripoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="Imai TV" tvg-logo="https://i.postimg.cc/vZrkzk76/Imaitv.png" group-title="Tamil",Imai TV
  https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="vaanavil" tvg-logo="https://i.postimg.cc/rsxkGfYm/Vaanavil-TV.png" group-title="Tamil",vaanavil
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Village Cooking Channel" tvg-logo="https://i.postimg.cc/ZnDP4v2h/village-cooking-channel.jpg" group-title="Tamil",Village Cooking Channel
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://i.postimg.cc/sxsJFFPK/Gemini-TV-HD.png" group-title="Tamil",Gemini TV
-
+#EXTINF:-1 tvg-id="Sun Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/200x200_SunGeminiHD_194392_7cf12398-9a75-48a1-b707-b3c4da0564e9.png" group-title="Tamil",Sun Gemini HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6709/index.m3u8
+#EXTINF:-1 tvg-id="Sun Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/192537/200x200_SunGeminiMoviesHD_192537_acb5d2e8-ab2c-464a-a004-e0e09e7de02d.png" group-title="Tamil",Sun Gemini Movies
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6710/index.m3u8
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo="" group-title="Test",Abc
 
