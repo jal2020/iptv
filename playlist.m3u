@@ -152,6 +152,7 @@ https://mumt03.tangotv.in/JAIHIND/index.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/169798.ts
 #EXTINF:-1 tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/90CX1KzJ/kerala-vision-news.png" group-title="Malayalam News",Kerala vision News
 http://premimum.online:80/live/Jen12345/Jen54321/169850.ts
+http://starshare.fans:80/live/653284131606/673224580558/169850.tsv
 #EXTINF:-1 tvg-id="Zee Malayalam News" tvg-logo="https://i.postimg.cc/ZKDBKYCM/zee-news-malayalam.png" group-title="Malayalam News",Zee Malayalam News
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
@@ -250,8 +251,8 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DD malayalam" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD_Malayalam.png" group-title="Malayalam",DD malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
 #EXTINF:-1 tvg-id="Kaumudy TV" tvg-logo="https://i.postimg.cc/vZ9d4MQS/kaumudy-tv.png" group-title="Malayalam",Kaumudy TV
-https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
+https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
 #EXTINF:-1 tvg-id="Jeevan TV" tvg-logo="https://i.postimg.cc/bwfBFnhM/Jeevan-TV.png" group-title="Malayalam",Jeevan TV
 https://cdn-3.pishow.tv/live/1467/master.m3u8
 http://premimum.online:80/live/Jen12345/Jen54321/85920.ts
