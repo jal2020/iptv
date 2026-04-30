@@ -111,21 +111,21 @@ https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="CCTV Pradeshikam" tvg-logo="https://i.postimg.cc/pVGh5Hmt/CCTV-Pradeshikam.jpg" group-title="Malayalam Local TV",CCTV Pradeshikam
 https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="N vision" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision HD
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
 
 # not working
 #EXTINF:-1 tvg-id="Nattuvartha TV" tvg-logo="https://i.postimg.cc/43Sn0vVS/Nattuvartha-TV.png" group-title="Malayalam Local TV",Nattuvartha TV
-https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
+h- https://ipcloud.live/nattuvartha/nvtvstream/index.m3u8
 #EXTINF:-1 tvg-id="Venad News" tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="Malayalam Local TV",Venad News
-https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+h- https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="One tv" tvg-logo="https://i.postimg.cc/x1bjF7S5/One-tv.jpg" group-title="Malayalam Local TV",One TV
-http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
+h- http://rtmp.logichost.in:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV Cinema" tvg-logo="https://i.postimg.cc/B6vZJjcc/CCTV-Cinema.jpg" group-title="Malayalam Local TV",CCTV Cinema
-https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="N vision" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision HD
-https://ipcloud.live/nvision/nvisionhd/index.m3u8
+h- https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="N vision Music" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision music
-https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
-'
+h- https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
+h-
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
