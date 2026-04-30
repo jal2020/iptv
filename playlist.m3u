@@ -803,6 +803,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://i.postimg.cc/tgDyMLVL/Sun_KTVHD.png" group-title="Tamil",KTV HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=13298&deviceMac=00:1A:79:31:34:0E
 http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6693/index.m3u8
+http://starshare.fans/live/jen12345/jen54321/23318.ts
 #EXTINF:-1 tvg-id="Adithya TV" tvg-logo="https://i.postimg.cc/MGrZGCKc/Sun_Adithya_TV.png" group-title="Tamil",Adithya TV
 http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=13298&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-id="colors tamil hd" tvg-logo="https://i.postimg.cc/WbwH5X9t/colors-tamil-hd.png" group-title="Tamil",Colors Tamil HD
