@@ -128,6 +128,7 @@ h- https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 h-
 #EXTINF:-1 tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
+https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
 #EXTINF:-1 tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="Reporter TV" tvg-logo="https://i.postimg.cc/4Nfn1RTk/Reporter-TV.png" group-title="Malayalam News",Reporter TV
